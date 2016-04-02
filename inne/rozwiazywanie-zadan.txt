@@ -1,0 +1,23 @@
+Rozwiązywanie zadań
+
+Staraj się pisać jak najlepszy kod, ale nie poświęcaj dużej ilości czasu na poprawianie swojego kodu. Istotne jest przede wszystkim dostarczenie rozwiązania, naprawienie błędu, niż to, że jakaś linijka ma odrobinę za dużo znaków, albo masz lepszy pomysł na nazwę zmiennej. Długiem technicznym nazywamy źle napisany kod, pełen niejasnych sformułowań, ciężki do zrozumienia, który będzie trudny zo zarządzania i rozwijania dla kolejnych osób pracujących w projecie, a nawet dla samego autora. Wyczucie, czy dany kod jest na tyle dobrze napisany przychodzi z czasem, z doświadczeniem. Początkujący mogą oprzeć się na opinii bardziej doświadczonych programistów, w procesie code review.
+
+Bardzo ważną umiejętnością jest atakowanie problemu z wielu stron, różnymi metodami. Bardzo często dane zagadnienie programistyczne można rozwiązać na kilka różnych sposobów. Oczywiście część z nich jest niezdatna do wdrożenia, jednak kiepskie rozwiązanie jest o niebo lepsze, niż całkowity jego brak.
+
+Czasem programista napotyka na niezykle trudny problem do rozwiązania. Nazwijmy ten stan 'ścianą'. To zjawisko może wystąpić w przypadku nawet niezbyt trudnego problemu, który sprawia programiście kłopot.
+
+Jeśli nie ma znikąd pomocy, i możesz na chwilę odłożyć to zadanie zacznij pracę nad zupełnie innym taskiem. Po kilku godzinach, czy dniach może przyjść ci do głowy pomysł na rozwiązanie. Jest to zjawisko podobne do przetważania danych w tle - programista nie zapomina całkiem o problemie, ale jednocześnie nie myśli nad nim aktywnie. Ma go 'z tyłu głowy'. Nie warto męczyć się nad jakąś przeszkodą w końcówce dnia. Zamiast przesiadywac po godzinach bez skutku, lepiej przyjść z rana z świeżą głową, pomysł często orzyjdzie wtedy w ciągu kilku minut.
+
+Pomocnym może być również cofnięcie się jeden lub więcej kroków, i zmiana podejścia na którymś w wcześniejszych etapów. Bardzo pomocne (ale i trudne w wykonaniu) jest spojrzenie na problem i dotychczasowo wykonane kroki z perspektywy trzeciej osoby.
+
+Strategia 'dziel i rządź'. Polega ona na rozbiciu dużego zadania na szereg podzadań, na których o wiele łatwiej się skoncetrować i rozwiązać. Należy rozwiązywać poszczególne podproblemy osobno, ale mając z tyłu głowy obraz całości. Jest to konieczne, żeby np. format danych zwróconych przez funkcję nadawał się jako zbiór danych wejściowych do następnej funkcji, która będzie częścią rozwiązania. Wystarczy zadawać sobie w myślach pytanie: jaki nastrępny krok powinienem wykonać, żeby rozwiązać bierzące zadanie?
+
+Gdy idzie źle
+
+Nie jest ujmą to, że czasem nie pracujemy z taką sprawnością, jaką my sami i inni oczekujmy. Gdy zauważysz, że masz z czymś trundość, gdy sobie z czymś nie radzisz, można wykonać szereg czynności, żeby temu zaradzić.
+
+Przede wszystkim nie udawaj, że nie ma problemu. Nie chowaj głowy w piasek. Jeśli nie radzisz sobie z danym zadaniem, możesz częściej zwracać się z prośba o pomoc/z pytaniami do opiekuna, i innych członków zespołu. Większość ludzi chce pomagać, nawet jeśli pytający się trochę mu tym uprzykrza.
+
+Jeśli mimo tego wciąż masz trudności możesz porozmawiać z managerem, opiekunem projektu itp. Być może zadania, które dostałeś przerastają twoje obecne umiejętności. Lub np. masz na nie zbyt mało czasu. Być może cały projekt jest skomplikowany, trudny. Sam zespół programistyczny, czy osoby po stronie klienta mogą być źle dobrane, nie wykonywać swoich obowiązków poprawnie, co rzutuje na twoją wydajność. Zatem problem może leżeć poza tobą. Nie mniej jednak podstawową zasadą jest taka, że najpierw należy szukać przyczyny niepowodzeń w swojej osobie, nie w innych. Po rozmowie z managerem, podczas której opowiesz o swoich wątpliwościach i problemach powinniście dojść do jakiegoś rozwiązania.
+
+Ostatecznie, gdy rozmowy z przełożonym nic nie dały, możesz rozważyć zmianę firmy, technologii/języka programowania czy nawet porzucenie zawodu programisty. Nawet jeśli uznasz, że nie odpowiadają ci warunki w obecnej firmie nie pal za sobą mostów. Porozmawiaj szczerze z managerem/szefostwem, i rozstań się w przyjaznych warunkach. Również staraj się nie zerwać całkowicie kontaków z programistami - są one na wagę złota.
