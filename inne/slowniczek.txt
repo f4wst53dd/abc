@@ -1,0 +1,34 @@
+Słowniczek
+
+produkcja - serwer produkcyjny; jest to środowisko, przeznaczone dla odbiorców końcowych (klientów, użytkowników). ; zob. dev, stage, UAT
+senior (senior developer) - jest to programista, który wyróżnia się umiejętnościami, stażem pracy, doświadczeniem od reszty developerów; zob. developer, juniior developer. Jest on odpowiedzialny za pieczę nad projektem (wieloma projektami). Zwykle od niego zależą najważniejsze decycje, typu modyfikacja architektury aplikacji, wprowadzenie do niej kolejnej technologii/framweorka. Często mentor, do którego szeregowi programiści, juniorzy a nawet inni seniorzy zwracają się z problemem, albo o poradę. Osoba, która również może wykonywać
+- junior
+UAT (User Acceptancy Test, spolszcz. łat) - wykonywanie przez wyznaczone osoby (tester, klient, sam developer).
+stage (staging) server - serwer, któw
+dev (development) server - środowisko, zob. stage, uat, produkcja
+web
+prod manager
+HR (kadry, ejdżar, ang. Human Resources) - jest to sekcja w firmie (i osoby w niej pracujące), które zajmują się wyszukiwaniem i pozyskiwaniem nowych pracowników dla firmy. Przeglądają nadesłane CV, wybierają odpowiednie osoby. Zwykle przeprowadzają
+task
+ficzer (ang. feature) -
+bug (spolszcz. bag) - błąd w działaniu aplikacji, objawiający się uzyskaniem nieporządanym spadkiem wydajności, zwracaniem niepoprawych wyników, czy nawet zawieszeniem się (zcrashowaniem) całej aplikacji.
+edge case - skrajny przypadek - jest to sytuacja, która polega na tym, że użytkownik wprowadzi dane, które nie przewidział developer, wykona on czynności na stronie inaczej niż założono (lub nie wykona jakiegoś kroku) lub np. programista nie przewidział, że dla pewnych typów danych dana biblioteka będzie powodować błędy.
+crash - zatrzymanie się aplikacji, spowodowane błędem
+request - żądanie - jest to odpytywanie zasobów, często dostając odpowiedź, która zawiera informację nt. pomyślności wykonania tego requestu. Przykładowo, wchodząc na jakąś stronę przeglądarka wykonywanuje zwykle wiele requestów. Pobranie zawartości strony internetowej wiąże się z wykonywaniem osobnych requestów do pobrania kodu HTML, plików stylów CSS, plików Javascriptu, obrazków). W celu zmniejszenia ilości requestów dla środowiska produkcyjnego, wykonuje się minifikację i konkatenację plików JS i CSS (nie HTML!), oraz sprity obrazków.
+
+sprite - jest to pojedynczy plik graficzny, który składa się z 'posklejanych' wielu mniejszych obrazków. Używa się go po to, żeby zmninimalizować ilość requestów (zob.) do serwera - mając 20 małych obrazków złączonych w 1 spricie nie wykonujemy 20 osobnych requestów do serwera (co wiąże się z dodatkowym narzutem czasowym dla użytkownika, jak i narzutem obsługi większej ilości żądań dla serwera), ale przesyłamy je do przeglądarki jako odpowiedź na pojedynczy request. W kodzie CSS podajemy możemy dokładne współrzędne na podstawie których wyciągamy tylko taki fragment sprita, który jest akurat potrzeby do wyświetlenia (np. obazek przycisku). Użycie sprite jest sensowne, gdy mamy dużą ilość bardzo małych obrazków. Standardowym przykładem jest sprite z przyciskami, elementami obramowania.
+
+maintanance - utrzymywanie - jest to etap w cyklu życia aplikacji, w którym nie dodaje się aktywnie (regularnie, często) nowych ficzerów, jedynie dogląda się go. Monitorujemy czy apka działa, poprawiamy okazjonalnie bugi, ewentualnie raz na jakiś czas wykonujemy drobne zadania dodające coś do funkcjonalności. Tak można określić działającą aplikację (korzystają z niej użytkownicy), która jest wykonana, i to na tyle dobrze, że zwykle działa poprawnie, a klient nie ma funduszy/potrzeby żeby ją dalej rozwiajać.
+
+minified - zmniejszenie rozmiaru pliku tak, aby zmniejszyć jego rozmiar. Zwykle wykonuje się tą operację dla plików CSS i JS. W obu przypadkach usuwany niepotrzebne znaki białe (spacje, tabulatory, znaki nowej linii. Javascript dodatkowo nazwy zmiennych, funkcji itp. zamieniane są na jak najkrótsze. Dzięki temu skrypt wciąż będzie działał dokładnie tak jak w pierwotnej formie, ale będzie zajmował 
+preprocesor
+endpoint -
+wyjątek (ang. exception) -
+500 (pięćsetka) - kod odpowiedzi requestu HTTP HTTP oznaczający błąd wykonywania kodu po stronie serwera. Może pojawić się, gdy np. programista
+404 - not found - kod odpowiedzi requestu HTTP
+200 - kod odpowiedzi requestu HTTP, który oznacza poprawne jego wykonanie
+task - jest to zadanie do wykonania dla programisty. Może to być bugfix (najprawienie błędu), zrobienie ficzera (zrobinie nowej funkcjonalności) czy np. zrzucenie części danych z bazy do pliku .csv do analizy dla klienta.
+polyfill
+code review - ocena kodu. Proces
+pull request, PR - jest to przygotowany przez programistę zbiór zmian w kodzie, który dotyczy zwykle jednej funkcjanalności (typu implementacja logowania przez facebooka, poprawienie błędu czy usunięcie nieużywanych plików). Zawiera jeden lub wiele commitów. PR-a tworzymy nie w bezpośrednio w systemie kontroli wersji (lokalnie), ale na stronie hostingu kodu (np. github, bitbucket, gitlab). Pozwala na łatwe wyszukiwanozwalaie zmian w historii - wystarczy
+commit - pojedyncza zmiana w kodzie, zapisana w systemie kontroli wersji. Może ona dotyczyć jednego lub wielu plików. Jeden commit powinien dotyczyć
