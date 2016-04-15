@@ -17,6 +17,8 @@ Istnieje również ogromna społeczność dzieląca się wiedzą i poradami na k
 Jak oglądać video?
 Przed oglądnięciem warto "poskakać" w środku filmiku, zobaczyć czy tematyka filmu jest na tyle interesująca, żeby była warta naszego czasu. Dla zaoszczędzenia czasu instniej możliwość przyspieszenia odtwarzania materiału. Zwykle prędkość 1.25 na youtube.com jest odpowiednia. Czasem możliwe jest oglądanie z prędkością 1.5, zwłaszcza jeśli prelegent mówi wolno, i wyraźnie. W przypadku języka angielskiego mówcy z b. dobrym angielskim (np. native speakerzy), i z dobra umiejśtnością słuchania j. angielskiego po naszej stronie można również oglądać materiał z szybkością 1.5. W przypadku gdy nie zrozumiemy jakiegoś fragmentu, wystarczy cofąć się o te 10, 15 sekund, i ewentualnie tymczasowo wyłączyć przyspieszenie.
 
+Niektóre video można słuchać w tle, przy pracy nad czymś innym. Prawdopodobnie ciężko będzie ci się skupić na dwóch wymagających skupienia czynnościach (typu implementacja algorytmu i słuchanie podcastu o trudnej tematyce technicznej). Zatem przy cięższym "głównym" działaniu lepiej słuchać w tle video bardziej na luzie; lub na odwrót - słuchać trudniejszego w przyswojeniu materiału podczas niewymagającej skupienia czynności (np. porządkowanie plików na komputerze).
+
 Jak czytać artykuły?
 
 Podobnie jak w przypadku materiałów video warto przed zabraniem się za czytanie 'od deski do deski' przewertować szybko artykuł. Postawić sobie pytanie, czy długość artykułu, jego poziom merytoryczny jest odpowiedni dla nas? Czy tematyka jest na tyle interesująca, że warto poświęcić czas na zapoznanie się z nim? Czy komentarze pod postem, albo na stronie, gdzie znaleźliśmy lik do niego wskazują na to, że jest to wartościowy materiał?

@@ -32,3 +32,5 @@ polyfill
 code review - ocena kodu. Proces
 pull request, PR - jest to przygotowany przez programistę zbiór zmian w kodzie, który dotyczy zwykle jednej funkcjanalności (typu implementacja logowania przez facebooka, poprawienie błędu czy usunięcie nieużywanych plików). Zawiera jeden lub wiele commitów. PR-a tworzymy nie w bezpośrednio w systemie kontroli wersji (lokalnie), ale na stronie hostingu kodu (np. github, bitbucket, gitlab). Pozwala na łatwe wyszukiwanozwalaie zmian w historii - wystarczy
 commit - pojedyncza zmiana w kodzie, zapisana w systemie kontroli wersji. Może ona dotyczyć jednego lub wielu plików. Jeden commit powinien dotyczyć
+
+cache
