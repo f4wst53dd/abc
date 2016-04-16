@@ -34,3 +34,5 @@ pull request, PR - jest to przygotowany przez programistę zbiór zmian w kodzie
 commit - pojedyncza zmiana w kodzie, zapisana w systemie kontroli wersji. Może ona dotyczyć jednego lub wielu plików. Jeden commit powinien dotyczyć
 
 cache
+flaga
+mockup
