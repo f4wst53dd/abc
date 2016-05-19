@@ -15,6 +15,7 @@ bug (spolszcz. bag) - błąd w działaniu aplikacji, objawiający się uzyskanie
 edge case - skrajny przypadek - jest to sytuacja, która polega na tym, że użytkownik wprowadzi dane, które nie przewidział developer, wykona on czynności na stronie inaczej niż założono (lub nie wykona jakiegoś kroku) lub np. programista nie przewidział, że dla pewnych typów danych dana biblioteka będzie powodować błędy.
 crash - zatrzymanie się aplikacji, spowodowane błędem
 request - żądanie - jest to odpytywanie zasobów, często dostając odpowiedź, która zawiera informację nt. pomyślności wykonania tego requestu. Przykładowo, wchodząc na jakąś stronę przeglądarka wykonywanuje zwykle wiele requestów. Pobranie zawartości strony internetowej wiąże się z wykonywaniem osobnych requestów do pobrania kodu HTML, plików stylów CSS, plików Javascriptu, obrazków). W celu zmniejszenia ilości requestów dla środowiska produkcyjnego, wykonuje się minifikację i konkatenację plików JS i CSS (nie HTML!), oraz sprity obrazków.
+qa
 
 sprite - jest to pojedynczy plik graficzny, który składa się z 'posklejanych' wielu mniejszych obrazków. Używa się go po to, żeby zmninimalizować ilość requestów (zob.) do serwera - mając 20 małych obrazków złączonych w 1 spricie nie wykonujemy 20 osobnych requestów do serwera (co wiąże się z dodatkowym narzutem czasowym dla użytkownika, jak i narzutem obsługi większej ilości żądań dla serwera), ale przesyłamy je do przeglądarki jako odpowiedź na pojedynczy request. W kodzie CSS podajemy możemy dokładne współrzędne na podstawie których wyciągamy tylko taki fragment sprita, który jest akurat potrzeby do wyświetlenia (np. obazek przycisku). Użycie sprite jest sensowne, gdy mamy dużą ilość bardzo małych obrazków. Standardowym przykładem jest sprite z przyciskami, elementami obramowania.
 
@@ -36,3 +37,5 @@ commit - pojedyncza zmiana w kodzie, zapisana w systemie kontroli wersji. Może 
 cache
 flaga
 mockup
+deployment
+release

@@ -14,6 +14,8 @@ Jaka ma być tematyka aplikacji?
 
 Istnieją w Internecie listy pomysłów na projekty. Można się z nimi zapoznać, aby zaczerpnąć inspiracji. Jednak najlepszym pomysłem może być wykonanie aplikacji, która rozwiąże jakiś nasz problem. Na przykład zautomatyzyje czynność, którą musieliśmy wcześniej mozolnie robić ręcznie. Dzięki temu potencjalnie będziemy mieć większą motywacją i radość z jej tworzenia, w porównaniu do realizaji jakiegoś losowo wybranego zadania. Dodatkowo, kwestia pobudek realizacji takiego pomysłu może być poruszona przez rekrutera, a realizacja projektu na własne potrzeby powinna być lepiej odebrana.
 
+Interesującym projektek może być aplikacja, która automatyzuje wykonywane przez nas czynności. Załóżmy, że regularnie wchodzimy na jakąś stronę, i pobieramy z niej jakąś treść, typu 10 najpopularniejszych obrazków. Możemy zautomatyzować ten proces, np. przy użyciu API strony z obrazkami, jeśli takowe ona udostępnia. Możemy pobierać te obrazki, zapisać je na zewnętrznym serwerze. Dodatkowo dokładamy prosty interfejs, poprzez który możemy zobaczyć statyski pobranych obrazków, pogrupować je w katalogi, usuwać, zmieniać nazwę itp.
+
 Jak bardzo rozbudowany powinien być projekt?
 
 Projekt nie musi być bardzo rozbudowany. Nie mniej jednak im jest on większy, tym lepiej. Nie powinien być on zbyt prymitywny. Najlepiej skupić się na zakończeniu kluczowej funcjonalności. Aplikacja powinna na tym etapie robić jedną rzecz (np. pobierać listę newsów z zewnętrznej strony), i robić ja dobrze, bez błędów. Potem ten prosty projekt można rozwinąć, dokładając kolejne części, 'cegiełki'.
