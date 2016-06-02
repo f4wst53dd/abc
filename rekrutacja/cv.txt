@@ -1,7 +1,7 @@
 Format: .pdf, .doc lub .txt. Oczywiście można napisać je w formacie tekstowym, a później wyeksportować do formatu PDF.
 Zdjęcie: najpewniej nie jest w ogóle potrzebne. Nie aplikujesz na stanowisko, gdzie prezencja ma znaczenie.
 Długość - CV powinno zmieścić sie na 1 lub 2 stronach formatu A4, przy użyciu czcionki wielkości 12p lub większej. Jeśli rekrutujesz się na staż/praktykę/1 pracę, to niemal na pewno będziesz mógł zmieścić się na pojedynczej stronie.
-Język - w zależności od firmy do której skaładamy CV i jezyka ofery pracy/stażu. Jeśli oferta jest w języku angielskim, piszemy po angielsku. W pozostałych przypadkach używamy języka polskiego.
+Język - w zależności od firmy do której skaładamy CV i jezyka ofery pracy/stażu. Jeśli oferta jest w języku angielskim, piszemy po angielsku (możemy posłużyć się przykładami/szablonami z internetu, żeby użyć właściwych słów i zwrotów). W pozostałych przypadkach używamy języka polskiego.
 
 Elementy CV:
 I. Dane osobowe i kontaktowe:
