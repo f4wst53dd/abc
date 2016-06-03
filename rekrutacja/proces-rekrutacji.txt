@@ -33,6 +33,8 @@ Dwie najciekawsze kwestie (formy umowy i zarobków) wymagają szerszego opisu. U
 
 Co do wysokości zarobków (w przypadku pierwszej pracy w IT) to prawdopodobnie najlepiej postawić sprawę wprost. Trzeba powiedzieć, że nie masz doświadczenia "komercyjnego", a praca tutaj, nabywanie doświadczenia jest najcenniejsze, zatem minimalna stawka będzie dla ciebie wystarczająca. Nie zanczy to, że będziesz pracował za takie same, małe pieniądze cały czas, jeśli zostaniesz w firmie na dłużej. Nabędziesz doświadczenia, pokażesz swoją wartość pracodawcy, czyli po kilku miesiącach możesz podjąc kwestię płacy na nowo.
 
+Jeśli podczas rozmowy padną pytania, na które nie chcesz z jakiegoś powodu odpowiadać, po prostu to zakumunikuj. Pamiętaj tylko, że ominięcie pytań takich jak 'dlaczego chcesz zostać web developerem', albo 'dlaczego zrezygnowałeś z poprzedniej pracy' najpewniej postawi cię w negatywnym świetle, jako osobę, która ukrywa swoje intencje itp. Z drugiej strony, jeśli (mało prawdopodobne, ale zdarza się) rekruter zapyta o wielkość zarobków w poprzedniej firmie, albo będzie mocno drążył temat pobudek twojej chęci przekwalifikowania się z innego zawodu na programistę - po prostu utnij temat ("Nie chciałbym o tym rozmawiać").
+
 - rozmowa rekrutacyjna (techniczna)
 
 Najważniejsza i najtrudniejsza część rekrutacji jest to rozmowa stricte techniczna. Będzie ona przeprowadzona przez szefostwo lub innego pracownika (programistą), czasem razem z managerem projektu, do którego ewentualnie trafiłbyś. Przeprowadzana zwykle w języku polskim, choć czasem również po angilesku. Padną pytania w twoją stronę odnośnie doświadczenia (w jakich językach programowałeś, jakich bibliotek, frameworków użyłeś). Prawdopodobnie rekruter dopytywać się będzie o szczegóły projektów, które wymieniłeś w CV. Potem przyjdzie czas na pomiar wiedzy nt. web developmentu ogólnie, i wiedzy o technologii wykorzystywanych na stanowisku na które się rekrutujesz. Postaraj się odpowiedzieć przynajmniej 2-3 zdania na każde pytanie. Nawet jeśli wiesz o wiele więcej na jakiś temat rozgaduj się zbytnio - pytania te służą po to, żeby zorientować się czy orientujesz się w wybranych zagadnieniach, a nie to, czy potrafisz nawijać na dany temat przez 15 minut. Jeśli nie jesteś pewien, czy dobrze zrozumiałeś pytanie, albo nie wiesz czy omawiać temat bardziej ogólnie czy raczej szczegółowo - po prostu zapytaj.
@@ -41,11 +43,35 @@ Po tej serii pytań może być przedłożony kod, na komputerze lub kartce. Twoi
 
 Kolejnym, bardzo ważnym elementem technicznej rozmowy może być pisanie kodu, na kartce, tablicy lub komputerze. Mogą być to zarówno kilka małych programików (typu napisz funkcję odwracającą podany łańcuch zanków, bez użycia wbudowanych w język/bibliotekę standardową/framework metod), lub pojedynczy większy (np. implementacja wypożyczalni samochodów). Zwykle rekruterzy będą cały czas obecni, aktywnie uczestnicząc w procesie developmentu, jednocześnie dopytując się różnych rzeczy, nakierowując ciebie, lub udzielając wskazówek.
 
-Porady
 
-Ostatnią formą sprawdzenia umiejętności technicznych jest "zadanie domowe" - czyli implementacja nieco większego projektu w domu, już po rozmowie w biurze. Używana jest ona zwłaszcza wtedy, gdy rekruterzy po rozmowie w biurze wciąż mają wątpliwości co do poziomu 'skilla' programistycznego kandydata. Jest to ostania szansa na przechylenie szali na naszą korzyść. Dostaniesz zadanie, gdzie będą wymienione elementy, które musimy zaimplementować. Na zadanie dostaniemy określoną ilość czasu (typu 1-3 dni). Gotowe rozwiązanie będzie oceniane pod względem jakości kodu, jego klarowności, zgodności ze standardami itp. Jest szansa, że dostaniesz zadanie, których elementów fizycznie nie da się zaprogramować w zadanym krótkim czasie - wtedy dodatkowo oceniana bedzie umiejętność priorytetyzacji zadań.
+Podczas tego etapu Warto "głośno myśleć", tzn. nawet jeśli nie wiemy jak rozwiązać zadanie, jak wykonać nastepny krok powinniśmy wyartykułować większość myśli, które przemykają nam przez głowę. Dzięki temu rekruter będzie wiedział, że pod twoją czaszką zachodzą jakieś procesy myślowe, że starasz się rozwiązać problem. Nawet nie do końca poprawne "krążenie" wokół zadania jest o wiele lepsze niż milczenie, czy powiedzenie "nie wiem jak to zrobić". Również stwierdzenie typu 'nie pamiętam nazwy tej metody, ale można to znaleźć w 10 sekund na stronie API' jest pożądane, jeśli nie nadużyjemy go w rozmowie.
+
+Zwykle zadanie będzie wymagało doprecyzowania, zatem dopytaj się o te rzeczy, np. 'Czy zakładamy input string będzie zawsze liczbą, czy zabezpieczyć program przed innym inputem?'.
+
+Tak jak w przypadku prawdziwej pracy i prawdziwych zadań (patrz: sekcja Rozwiązywanie zadań), w wypadku braku pomysłu na rozwiązanie trzeba szybko postarać się zmienić podejście, podejść do zadania z innej strony. Sporo zadań da się zrobić na kilka sposobów, zatem warto próbować.
+
+- Wariancją pisania kodu jest pair programming, czyli będziesz pracował nad zadaniem w tym samym czasie z innym programistą. Będziesz pisał fragmenty kodu, lub opowiadał co trzeba wykonać w następnym kroku, a developer szybko to wprowadzi. Przy okazji dowie się on o sposobie twojego myślenia, jak podchodzisz pod rozwiązania zadania, z jakich narzędzi korzystasz (np. program Unixowy) itp.
+
+- Ostatnią formą sprawdzenia umiejętności technicznych jest "zadanie domowe" - czyli implementacja nieco większego projektu w domu, już po rozmowie w biurze. Używana jest ona zwłaszcza wtedy, gdy rekruterzy po rozmowie w biurze wciąż mają wątpliwości co do poziomu 'skilla' programistycznego kandydata. Jest to ostania szansa na przechylenie szali na naszą korzyść. Dostaniesz zadanie, gdzie będą wymienione elementy, które musimy zaimplementować. Na zadanie dostaniemy określoną ilość czasu (typu 1-3 dni). Gotowe rozwiązanie będzie oceniane pod względem jakości kodu, jego klarowności, zgodności ze standardami itp. Jest szansa, że dostaniesz zadanie, których elementów fizycznie nie da się zaprogramować w zadanym krótkim czasie - wtedy dodatkowo oceniana bedzie umiejętność priorytetyzacji zadań.
 
 
 Jedną z najważniejszych rzeczy podczas procesu rekrutacji jest zrównoleglenie wysyłania odpowiedzi na ofertę pracy (wysyłania CV). Zakładam, że chcesz jak najszybciej dostać pracę. W takim przypadku nie wysyłaj cv sekwencyjnie: wysłanie cv do danej firmy -> czekanie na odpowiedź-> rozmowa rekrutacyjna -> niepowodznie -> wysłanie cv do kolejnej firmy -> czekanie na odpowiedź itp. Zamiast tego znajdź jak najwięcej interesujących cię ogłoszeń, i natychmiast wysyłamy do wszystkich firm CV. Dzięki czemu czas oczekiwania na odpowiedź będzie wspólny dla wszystkich ogłoszeń. Jest to bardzo pomocne, ponieważ czas odpowiedzi może wynieść nawet kilkanaście/kilkadziesięt dni. Dodatkowo, między datą pierwotnej odpowiedzi firmy a potencjalną datą początku zatrudnienia, czy choćby datą rozmowy o pracę, emoże minąć wiele dni.
 
 Wyjątkiem od powyższej sytuacji może być podejście strategiczne do konkretnych firm. Potencjalna sytuacja: nie mamy żadnego doświadczenia w rozmowach o pracę, i chcemy sprawdzić się na kilku rozmowach na dane stanowisko. Mamy jedną lub dwie "wymarzone" firmy, w których chcielibyśmy pracować, oraz 5 innych, które są ciekawe, ale mniej niż pierwsze dwie. Zatem możemy zrównoleglić wysyłkę do 5 "gorszycg" firm, licząc na dojście do etapu rozmowy o pracę w firmie. Dzięki temu nabędziemy doświadczenia w rozmowach rekrutacyjnych, zobaczymy jakie pytania padają, oraz jak sobie z nimi radzimy. W razie potrzeby douczamy się z danej technologii, i tak przygotowani wysyłamy cv do 2 preferowanych firm. Dzięki temu zwiększamy szansę powodzenia w ważniejszych dla nas rozmowach. Wadą takiego podejścia jest rozwlecznie procesu rekrutacji, oraz potencjalnie trudny wybów, jeśli któraś z piewszych pięciu firm zaoferuje nam pracę.
+
+
+Co jeśli mimo prób nie dostaję pracy?
+
+Prawda jest taka, że nie zawsze nasze umiejętności mają dokładne przełożenie na wynik rekrutacji. Jeśli naprawdę dobrze zaprezentujesz się na rozmowie, niemal na pewno zostaniesz przyjęty. Nie mniej jednak kiepski wynik rekrutacji nie zawsze oznacza, że nie nadajesz się na programistę. Mimo to, przyczyn porażek zacznij szukać od swojej osoby, nie w czynnikach zewnętrznych. Mogły wystąpić chociażby takie czynniki:
+
+- nie masz doświadczenia w rozmowach o pracę
+- masz za mało doświadczenia w web developmencie
+- nie poćwiczyłeś kodowania przed rozmową, i nie pamiętałeś składni języka
+- ciężko myślało ci się, przez niewyspanie, zmęczenia, stres
+- twoje umiejętności w komunikacji w j. obcym są za małe
+- trafiłeś akurat na takie pytania techniczne, z których nie masz dużej wiedzy
+- znasz pojęcia, ale nie potrafisz je wyartykułować
+- firma potrzebuje kogoś w większym doświadczeniem w technologii X, której ty znasz tylko podstawy
+- na stanowisko ubiagali się inni, lepsi programiści
+- firma nie szuka developera aktywnie, zatem biorą tylko bardzo dobrych
+- podałeś zbyt wysoką stawkę płacy
