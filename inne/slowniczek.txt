@@ -45,3 +45,5 @@ feedback
 edge case
 stack/stos (technologii)
 vanilla (np. vanila JS)
+protokół
+skalowalność

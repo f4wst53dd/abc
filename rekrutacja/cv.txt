@@ -65,3 +65,5 @@ Imię Nazwisko
 
 
 CV nie musi być czególnie oryginalne, dopieszczone pod względem wizualnym. Korzystanie z jakiegoś wymyślnego szablonu nie jest konieczne. Należy skupić się przede wszystkim na zwięzłości, przejrzystości; na przekazaniu maksymalnej ilości informacji (takich, które zainteresują rekrutera).
+
+Nie pisz "dobra znajomość pakietu Office", chyba że naprawdę go znasz bardzo dobrze.

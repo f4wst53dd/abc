@@ -26,7 +26,7 @@ Jednak w przypadku nauki programowania próba napisania własnego modułu ma wi�
 
 Projekt nie musi być bardzo rozbudowany. Nie mniej jednak im jest on większy, tym lepiej. Nie powinien być on zbyt prymitywny. Najlepiej skupić się na zakończeniu kluczowej funcjonalności. Aplikacja powinna na tym etapie robić jedną rzecz (np. pobierać listę newsów z zewnętrznej strony), i robić ja dobrze, bez błędów. Potem ten prosty projekt można rozwinąć, dokładając kolejne części, 'cegiełki'.
 
-Dobrze, gdy projekt zawiera różnowodne funkcjonalności. Ponieżej znajduje się lista przykładowych składowych, które warto umieścić w projekcie:
+Dobrze, gdy projekt zawiera różnowodne funkcjonalności. Poniżej znajduje się lista przykładowych składowych, które warto umieścić w projekcie:
 - autoryzacja użytkowników - np. jakiś dany typ użytkowników może wejść na konkretne podstrony aplikacji. Osobna sekcja moderatora/admina.
 - uwierzytelnienie użytkowników: możliwość założenie konta użytkownika, zalogowania się, wylogowania się, zapamiętywanie zalogowania, przypominanie hasła. Najlepiej wykorzystać do tego jakąś popularną bibliotekę. W przypadku własnego rozwiązania hasła należy hashować bcryptem lub podobnym rozwiązaniem, a nie np. md5 + sól. Logowanie przez social media (facebook, twitter, google) za pomocą OmniAuth.
 - integracja z zewnętrznymi serwisami: bezpośrednio przez API, lub najlepiej korzystając z biblioteki, która komunikuje się za pomocą API. Przykładowo upload zdjęć/obrazków na Amazon S3; możliwość odczytania listy plików z Dropboxa w aplikacji; przycisk z opcją udostępnienia treści na facebooku.
@@ -39,6 +39,7 @@ Dobrze, gdy projekt zawiera różnowodne funkcjonalności. Ponieżej znajduje si
 - geolokalizacja - możliwość określenia geograficznej lokalizacji użytkownika na podstawie adresu IP, wpisanego adresu miejscowości czy za pomocą geolokalizacji  HTML5 (przez zezwolenie przeglądarce na udostępnienie położenia)
 - system powiadomień: aplikacja będzie powiadamiać użytkownika o ważnych wydarzeniach, poprzez ikonkę w menu z liczbą powiadmień. Po kliknięciu na ikonę rozwiaja się lista nieprzeczytach powiadomień.
 - system wiadomości: możliwość wysyłania wiadomości do danego użytkownika/grupy użytkowników, w obrębie aplikacji
+- komunikacja serwer-klient za pomocą WebSockets
 
 
 Aplikacja nie musi dobrze wyglądać, o ile nie aplikujemy na stanowisko web designera czy frontend developera. Należy skupić się przede wszystkim na funkcjonalności. To, że jakaś część aplikacji nie działa, lub występują w niej błędy nie stanowi problemu, o ile nie dzieje się tak w zakresie wielu funkcjonalności/podstron.

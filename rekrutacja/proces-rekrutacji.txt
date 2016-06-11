@@ -60,7 +60,7 @@ Jedną z najważniejszych rzeczy podczas procesu rekrutacji jest zrównoleglenie
 Wyjątkiem od powyższej sytuacji może być podejście strategiczne do konkretnych firm. Potencjalna sytuacja: nie mamy żadnego doświadczenia w rozmowach o pracę, i chcemy sprawdzić się na kilku rozmowach na dane stanowisko. Mamy jedną lub dwie "wymarzone" firmy, w których chcielibyśmy pracować, oraz 5 innych, które są ciekawe, ale mniej niż pierwsze dwie. Zatem możemy zrównoleglić wysyłkę do 5 "gorszycg" firm, licząc na dojście do etapu rozmowy o pracę w firmie. Dzięki temu nabędziemy doświadczenia w rozmowach rekrutacyjnych, zobaczymy jakie pytania padają, oraz jak sobie z nimi radzimy. W razie potrzeby douczamy się z danej technologii, i tak przygotowani wysyłamy cv do 2 preferowanych firm. Dzięki temu zwiększamy szansę powodzenia w ważniejszych dla nas rozmowach. Wadą takiego podejścia jest rozwlecznie procesu rekrutacji, oraz potencjalnie trudny wybów, jeśli któraś z piewszych pięciu firm zaoferuje nam pracę.
 
 
-Co jeśli mimo prób nie dostaję pracy?
+Co jeśli mimo prób wciąż nie dostaję pracy?
 
 Prawda jest taka, że nie zawsze nasze umiejętności mają dokładne przełożenie na wynik rekrutacji. Jeśli naprawdę dobrze zaprezentujesz się na rozmowie, niemal na pewno zostaniesz przyjęty. Nie mniej jednak kiepski wynik rekrutacji nie zawsze oznacza, że nie nadajesz się na programistę. Mimo to, przyczyn porażek zacznij szukać od swojej osoby, nie w czynnikach zewnętrznych. Mogły wystąpić chociażby takie czynniki:
 
@@ -69,9 +69,18 @@ Prawda jest taka, że nie zawsze nasze umiejętności mają dokładne przełoże
 - nie poćwiczyłeś kodowania przed rozmową, i nie pamiętałeś składni języka
 - ciężko myślało ci się, przez niewyspanie, zmęczenia, stres
 - twoje umiejętności w komunikacji w j. obcym są za małe
+- twoje umiejętności w komunikacji ogólnie są zbyt małe
 - trafiłeś akurat na takie pytania techniczne, z których nie masz dużej wiedzy
 - znasz pojęcia, ale nie potrafisz je wyartykułować
 - firma potrzebuje kogoś w większym doświadczeniem w technologii X, której ty znasz tylko podstawy
-- na stanowisko ubiagali się inni, lepsi programiści
+- na stanowisko ubiagali się w tym samym czasie inni, lepsi programiści
 - firma nie szuka developera aktywnie, zatem biorą tylko bardzo dobrych
 - podałeś zbyt wysoką stawkę płacy
+
+Szaleństwo to powtarzanie wciąż tych samych czynności licząc na inny rezultat. Skoro n razy poniosłeś porażkę, to obecnie coś źle robisz. Przede wszystki musisz stwierdzić przez jaki element(y) przegrywasz. Np. na rozmowie poradziłeś sobie dobrze z programowaniem w Pythonie, ale poległeś na trywialnych zadaniach z Javascriptu. Wnioskek: "muszę podszkolić się z JS". Inny przykład: "rozmowa techniczna poszła mi nieźle, ale rozmowa po angielsku poszła mi fatalnie. Powinienem poćwiczyć mówienie po angielsku".
+
+Być może masz jeszcze za mało doświadczenia programistycznego, nawet na juniora. Być może warto rozważyć tymczasową pracę "okołoprogramistyczną", typu tester oprogramowania, czy helpdesk. Przez kilka miesięcy popracować tam, w międzyczasie poduczyć się, zrobić dodatkowy projekt, i ponownie rekrutować się na web developera. Nawet jeśli nie podążymy tą drogą, to ponownie składać CV do tej samej firmy nie warto wcześniej niż po kilku miesiącach (4-6 miesiące). Jest to czas, po którym potencjalnie smożesz zaprezentować nowego, lepszego siebie, a nie tylko zawracać głowę.
+
+Warto składać CV do firmy nawet jeśli w ogłoszeniu o pracę lista umiejętności (wymaganych technologii) jest o wiele większa, niż przedstawia twój obecny stan wiedzy. Warto próbować nawet jeśli umiesz 30-40% z wymienionych rzeczy. Zwłasza, jeśli firma poszukuje kogoś z wiedzą na temat programisty języka X, i frameworka Y (a ty masz tą wiedzę), a pozostałe technologie można się stostunkowo szybko nauczyć. Nawet jeśli totalnie nie będziesz się nadawać do tej pracy, to rekruter po prostu nie odezwie się, albo co wyjdzie to podczas rozmowy w biurze. Dział HR coś musi robić, zatem jest duża szansa, że odpowiedzą na wysłane CV.
+
+Ciekawym podejściem odnośnie wymagań na stanowisko może być niejako odwrócenie ról - zamiast czytać listę umiejętności w ogłoszeniu możesz zadzwonić do firmy, i poprosić o 10 minut rozmowy. Podczas rozmowy powiedz, że jesteś zainteresowany pracą w waszej firmie na stanowisku X, i nie jesteś pewien, czy twój obecny stan wiedzy/doświadczenia jest odpowiedni. Zapytaj się jakich umiejętności opanowanie będzie najbardziej kluczowe, na czym powinieneś się skupić. Jeśli firma nie będzie chciała poświęcić kilku minut na taką rozmowę z potencjalnym pracownikiem to może być to żółte światło dla ciebie - czy chciałbyś pracować w firmie, która nie chce poświęcić kilku minut na rozmowę z potencjalnym pracownikiem?
