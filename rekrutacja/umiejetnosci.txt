@@ -16,4 +16,9 @@ II. Przeglądarka internetowa
   - analiza requestów sieciowych podczas działania aplikacji (w Chrome zakładka: Network)
   - (*) analiza profilingu (w Chrome zakładka timeline)
 
-III.
+III. Stack sieciowy
+  - znajomość protokołów HTTP (metody GET, POST itp., jak wygląda request HTTP, odpowiedź HTTP ). Co nowego wprowadza HTTP/2 w porównaniu do HTTP 1.1? Model OSI; protokół TCP i model TCP/IP.
+  - REST, metody HTTP (GET, POST itp.)
+
+IV. Narzędzia (programy)
+  - cURL: umiejętność wykonywania żądań do serwera (GET, POST); dodawanie parametrów do requestu, ustawianie nagłówków
