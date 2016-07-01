@@ -17,8 +17,27 @@ II. Przeglądarka internetowa
   - (*) analiza profilingu (w Chrome zakładka timeline)
 
 III. Stack sieciowy
+  - znajomość podstaw działania i używania serwera aplikacji (np. Tomcat, Phusion Passenger); dodatkowo np. Nginx (w roli reverse proxy)
   - znajomość protokołów HTTP (metody GET, POST itp., jak wygląda request HTTP, odpowiedź HTTP ). Co nowego wprowadza HTTP/2 w porównaniu do HTTP 1.1? Model OSI; protokół TCP i model TCP/IP.
   - REST, metody HTTP (GET, POST itp.)
 
 IV. Narzędzia (programy)
   - cURL: umiejętność wykonywania żądań do serwera (GET, POST); dodawanie parametrów do requestu, ustawianie nagłówków
+
+V. Bezpieczeństwo
+  - znajomość popularnych zagrożeń (lista OWASP Top 10), oraz wiedza jak się przed nimi zabezpieczać
+  - podstawy wiedzy nt. SSL, SSH, kryptografii symetrycznej/asymetrycznej
+
+VI. Frontend
+  - HTML5, CSS3, Sass
+  - znajmomość JavaScript (przynjamniej w wersji ES5, docelowo również nowszą - ES2015)
+  - JQuery
+
+VII. Baza danych
+  - znajomość PostgreSQL/MySQL. Obsługa bazy za pomocą GUI (np. PgAdmin dla PostgreSQL), jak i za pomocą interfejsu konsolowego
+  - język SQL - znajomość podstawowych poleceń (tworzenie/edycja/usuwanie baz, tabel, rekordów; wyciąganie danych poleceniem SELECT)
+  - zagadnienia optymalizacyjne: indeksy, N+1 query problem, sharding
+
+VIII. Deployment
+  - deployment na zewnętrznym 'czystym' serwerze VPS. Dodatkowo opcjonalnie na sererze PaaS, np. Heroku
+  - narzędzia/skrypty deploymentu, np. Capistrano
