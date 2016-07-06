@@ -60,9 +60,9 @@ Słowniczek
 
 - API - jest to ściśle określony zestaw reguł według których aplikacje komunikują się ze sobę. W przypadku web developmentu strony często oferują API, za pomoca którego możemy pobrać interesujące nas dane (np. listę ulubionych piosenek z youtube.com) lub wykonać jakąś operację (dodać piosenkę do playlisty). Używając API nie wyświetlamy elemenów interfejsu (stylów, kodu HTML, plików JS), tylko wysyłamy/otrzymujemy ustrukturyzowane dane, np. w formacie JSON czy XML. W innym znaczeniu: API jest listą wszystkich możliwych elementów interfejsu danej biblioteki, frameworka. Przykładem jest https://api.jquery.com
 
-- wyjątek (ang. exception) - jest to mechanizm umożliwiający zgłoszenie wyjątkowego przypadku, np. błędu. Wyjątek może wywołać programista w kodzie (żeby potem go w innej części kodu obsłużyć), lub moze być wywołany z biblioteki/języka programowania. Przykład: tworzymy duży plik ze statystkami. Jeśli zabranie nam miejsca na dysku twardym do utworzenia go podnosimy wyjątek.
+- wyjątek (ang. exception) - jest to mechanizm umożliwiający zgłoszenie wyjątkowego przypadku, np. błędu. Wyjątek może wywołać programista w kodzie (żeby potem go w innej części kodu obsłużyć), lub moze być wywołany z biblioteki/języka programowania. Przykład: tworzymy duży plik ze statystkami. Jeśli zabraknie nam miejsca na dysku twardym do utworzenia go podnosimy wyjątek.
 
-- 500 (pięćsetka) - kod odpowiedzi requestu HTTP HTTP oznaczający błąd wykonywania kodu po stronie serwera. Może pojawić się, gdy np. programista
+- 500 (pięćsetka) - kod odpowiedzi requestu HTTP HTTP oznaczający błąd wykonywania kodu po stronie serwera. Może pojawić się, gdy np. programista popełni błąd składniowy w kodzie
 - 404 - not found - kod odpowiedzi requestu HTTP
 - 200 - kod odpowiedzi requestu HTTP, który oznacza poprawne jego wykonanie
 
