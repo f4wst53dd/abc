@@ -1,0 +1,5 @@
+Kilka słów, których wymowa często przysparza problemy:
+
+- cache (/kasz/)
+- queue (/kju/)
+- header /heder/

@@ -74,6 +74,8 @@ Słowniczek
 
 - commit - pojedyncza zmiana w kodzie, zapisana w systemie kontroli wersji. Może ona dotyczyć jednego lub wielu plików. Cała historia zmian w projekcie to zbiór commitów.
 
+- fork - projekt oparty na innym projekcie, rozwijany osobno, w innym kierunku; lub utworzenie kopii procesu systemowego
+
 - cache (wym. 'kasz') - pamięć podręczna. Miejsce w którym umieszczane są dane, do które chcemy mieć szybszy dostęp. Np. cache bazy danych umieszcza część danych w RAM, do którego jest szybszy dostęp w porównaniu do standardowego miejsca przechowywania danych bazy danych (dysk twardy).
 
 - flaga - zmienna w kodzie, na podstawie której wykonujemy (lub nie wykonujemy) jakąś część kodu. Najprostszym rodzajem flagi jest zmienna binarna (o wartości 'true' lub 'false'). Na przykład mamy w funkcji skomplikowaną logikę biznesową. Chcemy wykonać zapis do pliku pod koniec tej funkcji, po występieniu konkretnych warunków. Możemy wtedy utworzyć flagę 'var saveToFile = false', w dalszym kodzie ustawiamy jej wartość na 'true' jeśli występią wspomniany warunkówi. Pod koniec kodu funkcji sprawdzamy wartość flagi, i zapisujemy plik jeśli ma ona wartość 'true'.
@@ -103,3 +105,5 @@ Słowniczek
 - skalowalność - możność rozbudowy systemu, aplikacji. W przypadku web developmentu skalowalność oznacza zwiększenie ilości użytkowników, i w konsekwencji większe zużycie zasobów serwera.
 
 - brute force - metoda rozwiązania problemu która wykorzysta wszystkie możliwe przypadki i ich kombinacje. Często instnieje bardziej "eleganckie" rozwiązanie oprócz brute force, z wykorzystaniem jakiegoś algorytmu, czy analizując wstępnie dane. Zwykle też brute force jest najwolniejszy spośród istniejących rozwiązań problemu.
+
+- race condition - w przypadku kodu wykonywanego równolegle sytuacja, kiedy dwa wątki pracują na wspólnym zestawie danych, i w konsekwencji powodująca niespodziewane, losowe wyniki.

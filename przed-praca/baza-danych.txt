@@ -1,0 +1,17 @@
+Wiedza z zakresu baz danych jest bardzo istotna w web developmencie. I ile frontend developer nie musi jej posiadać, to w przypadku backend-, czy full-stack developera jest to konieczność. Jest to tematyka na tyle rozległa, że istnieją specjalizacje w tym kierunku (administrator baz danych). W przypadku web developera nie musimy mieć bardzo szerokiej wiedzy z baz. Zwykle wystarczy znać podstawy projektowania baz danych, zapytań i optymalizacji.
+
+Jaka baza danych?
+
+Po pierwsze musisz zdecydować jaki typ bazy będziesz używał. Najopszechniejsze są bazy relacyjne, a istnieją one już od wielu lat. Charakteryzują sie one ustaloną strukturą, w przybliżeniu odpowiadającą tabeli (w kolumami są atrybuty, np. 'nazwisko' i 'wiek', a w wierszach wartości atrybutów, np. 'Nowak', 23). Ostatnimi laty coraz większą popularnością cieszą się bazy nierelacyjne (NoSQL). Wśród nich wyróżnia się bazy przechowujące dane w dokumentach, w parach klucz-wartość, w postaci grafu i inne. Przykładami bazy NoSQL są MongoDB, Redis czy Neo4j. Posiadanie wiedzy z baz NoSQL może być dużym plusem, jednak poznanie modelu relacyjnego baz danych jest niemal koniecznością, dlatego właśnie na nim warto skupić uwagę na początku nauki web developmentu.
+
+Którą spośród baz relacyjnych warto opanować? Dużymi graczami na rynku tego typu baz są m.in.: Oracle Database, MySQL, Microsoft SQL Server czy PostgreSQL. Oracle i Microsoft oferują darmowe wersje baz, ale są one bardzo mocno ograniczone, np. ilością danych na jedną instancję bazy. PostgreSQL oferuje więcej funkcjonalności niż MySQL, oraz jest tworzona całkowicie w duchu Open Source. MySQL został przejęty przez firmę Oracle, wprowadzając dodatkowe płatne wersje. Podsumowując: biorąc pod uwagę popularność, darmowość i możliwości bazy danych najlepszym wyborem jest prawdopodobnie PostgreSQL, a w grugiej kolejmości MySQL (lub jego całkowicie otwarty fork o nazwie MariaDB).
+
+Umiejętności z baz danych
+
+- tworzenie, usuwanie tabel (CREATE TABLE, DROP TABLE)
+- typy danych (INTEGER, TEXT, SERIAL itp.)
+- wartość domyślna (DEFAULT), constraints (NOT NULL, UNIQE)
+- klucz główny (PRIMARY KEY), klucz obcy (FOREIGN KEY, REFERENCES)
+- modyfikacja tabel (ALTER TABLE): usuwanie, usuwanie kolumn (ADD COLUMN, DROP COLUMN); więzy spójności danych (ADD CHECK, ADD CONSTRAINT, DROP CONSTRAINT); zmiana wartości domyślnej kolumny (ALTER COLUMN .. SET DEFAULT, DROP DEFAULT); zmiana nazwy tabeli, kolumny (RENAME TO)
+- praca ze schemami (CREATE/DROP/SHOW SCHEMA, SET search_path TO)
+- 

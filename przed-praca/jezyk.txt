@@ -20,3 +20,22 @@ na szczególną uwagę zasługują: Redux (do zarządzania stamem w aplikcacji, 
 Dodatkowym atutem, oraz w ofertach niektórcyh firm wymogem będzie znajmość preprocesorów JavaScriptu (CoffeScript), CSS (SCSS, Sass), czy HTML (Jada, Haml). Preprocesory te umożliwiają pisanie bardziej zwięzłego, mniej podatnego na błędy kodu. Kod języków tych preprocesorów może różnić się bardzo od docelowej formy (np. Haml w porównaniu do HTML). Przeglądarki internetowe nie są w stanie tych języków zinterpretować, dlatego odbywa się konwersja do docelowego języka podczas deploymentu, albo konwersja ta przeprowadzana jest 'w locie', przez serwer aplikacji.
 
 Istnieje również bardzo dużo frameworków HTML/CSS, które zawierają zestaw gotowych komponentów, kolorór, stylów, interakcji, layoutów itp. Najpopularniejszymi są m.in. Bootstrap, Foundation czy implementujący Material Design framework Materialize.
+
+2. Technologie backendowe
+
+W parktyce dany język wykorzystuje się razem z frameworkiem, dlatego poniższa lista podaje ich przykłady:
+
+- Java (Play, Spark)
+- PHP (Laravel, Symfony, Zend)
+- Python (Django, Flask)
+- Ruby (Ruby on Rails, Sinatra)
+- JavaScript/NodeJS (Express.js)
+- Elixir (Phoenix)
+- Go (Beego, Revel)
+- C# (ASP.NET)
+
+Który język i jaki framework wybrać? Możemy podjąć decyzję biorąc pod uwagę kilka kryteriów:
+a) popularność. Im więcej osób korzysta z danej technologii, tym łatwiej znaleźć materiały, książki, pomoc na forach itp. Nie mniej istotna jest ilość ofert pracy. Z wymienionych wyżej języków najmniej popularnymi są Go i Elixir, a najpopularniejszymi są Java i PHP.
+b) składnia, łatwość tworzenia - każdy z języków posiada własną składnię, która może pewnym osobom nie odpowiadać. Przykładowo w Pythonie poziom wcięcia kodu określa bloki kodu, a niektórzy zapewne woleliby używac do tego celu klamerek: '{ blok_kodu }' jak w Javie, JS czy PHP lub słow kluczowych, np. 'do blok_kodu end' w Ruby. Warto samemu poczytać fragmenty kodu różnych języków, a najlepiej samemu napisać krótkie programy, żeby przekonać się, czy składnia nam odpowiada.
+
+Myślę, że warto zwłaszcza zwrócić uwagę na Javę, Pythona (Django) i Ruby (Ruby on Rails).
