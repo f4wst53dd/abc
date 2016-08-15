@@ -14,4 +14,14 @@ Umiejętności z baz danych
 - klucz główny (PRIMARY KEY), klucz obcy (FOREIGN KEY, REFERENCES)
 - modyfikacja tabel (ALTER TABLE): usuwanie, usuwanie kolumn (ADD COLUMN, DROP COLUMN); więzy spójności danych (ADD CHECK, ADD CONSTRAINT, DROP CONSTRAINT); zmiana wartości domyślnej kolumny (ALTER COLUMN .. SET DEFAULT, DROP DEFAULT); zmiana nazwy tabeli, kolumny (RENAME TO)
 - praca ze schemami (CREATE/DROP/SHOW SCHEMA, SET search_path TO)
-- 
+- wybieranie wartości z tabeli z opcjonalnymi warunkami (SELECT .. FROM .. WHERE)
+- wybieranie wartości z wielu tabel (SELECT .. FROM .. JOIN .. ON .. WHERE);
+- agregacje (zliczanie rekordów COUNT, suma SUM, wartość maksymalna/minimalna MAX/MIN, średnia AVG); agregacje b. często wykorzystują konstrukcję GROUP BY
+- zapytania zagnieżdżone (jeden SELECT wewnątrz drugiego)
+- aktualizacja rekordów (UPDATE .. SET)
+- usuwanie rekordów (DELETE FROM)
+- dodawnie rekordów (INSERT INTO .. VALUES)
+- używanie indeksów (CREATE INDEX .. ON, DROP INDEX); wiedza kiedy stosować indeksy, i jaki ich rodzaj
+- podstawy projektowania baz danych (podział danych na tabele, podział na kolumny tabel i wybór ich typów, tworzenie kluczów głównych, tworzenie kluczów obcych czyli relacji między tabelami, normalizacja bazy)
+- transakcje, widoki
+- programowanie bazy (triggery, funkcje, stored procedures)
