@@ -39,3 +39,8 @@ a) popularność. Im więcej osób korzysta z danej technologii, tym łatwiej zn
 b) składnia, łatwość tworzenia - każdy z języków posiada własną składnię, która może pewnym osobom nie odpowiadać. Przykładowo w Pythonie poziom wcięcia kodu określa bloki kodu, a niektórzy zapewne woleliby używac do tego celu klamerek: '{ blok_kodu }' jak w Javie, JS czy PHP lub słow kluczowych, np. 'do blok_kodu end' w Ruby. Warto samemu poczytać fragmenty kodu różnych języków, a najlepiej samemu napisać krótkie programy, żeby przekonać się, czy składnia nam odpowiada.
 
 Myślę, że warto zwłaszcza zwrócić uwagę na Javę, Pythona (Django) i Ruby (Ruby on Rails).
+
+Wśród techonologii, których znajomość (użycie w projekcie) może być dobrze widziana są m.in.:
+- Redis: prosta baza klucz-wartość, a także jako cache aplikacji
+- Elasticrsearch; Solr - silniki wyszukiwania (np. wyrażeń tekstowych) w bazie danych
+- RabbitMQ; ActiveMQ; Kafka - message brokery (systemy pozwalające na przesyłanie komunikatów między częściami aplikacji)

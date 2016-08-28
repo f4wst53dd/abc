@@ -7,6 +7,8 @@ I. Główny język, framework i środowisko
   - znajomość systemu paczek/bibliotek: instalowanie, usuwanie paczeki i ich aktualizacja.
   - rozumienie logów serwera/aplikacji: interpretacja komunikatów błędów, logów aktywności serwera
   - debugging - podstawowe, prymitywne debuggowanie kodu (wyświetlanie wartości zmiennych np. w logach; wywoływanie wyjątków, żeby sprawdzić w jakie części kodu są uruchamiane). Bardziej zaawansowane, przy użyciu debuggera - programu który zatrzyma wykonywanie kodu, pozwala na poruszanie się po kodzie krok po kroku, umożliwia wyświetlenie zmiennych, wykonywanie na nich operacji itp.
+  - używanie CLI/REPL, czyli konsoli aplikacji
+  - szablony HTML - w jaki sposób generować statyczną treść HTML wraz z dynamicznie dodawaną zawarością (kod framweworka)
 
 II. Przeglądarka internetowa
   - interpretacja komunikatów ostrzeżeń, błędów JavaScriptu
@@ -18,8 +20,10 @@ II. Przeglądarka internetowa
 
 III. Stack sieciowy
   - znajomość podstaw działania i używania serwera aplikacji (np. Tomcat, Phusion Passenger); dodatkowo np. Nginx (w roli reverse proxy)
-  - znajomość protokołów HTTP (metody GET, POST itp., jak wygląda request HTTP, odpowiedź HTTP ). Co nowego wprowadza HTTP/2 w porównaniu do HTTP 1.1? Model OSI; protokół TCP i model TCP/IP.
+  - znajomość protokołów HTTP (metody GET, POST itp., jak wygląda request HTTP, odpowiedź HTTP ). Co nowego wprowadza HTTP/2 w porównaniu do HTTP 1.1? Model OSI; protokół TCP i model TCP/IP, co to jest DNS.
   - REST, metody HTTP (GET, POST itp.)
+  - ciasteczka (cookies)
+  - URL - z jakich elementów składa się
 
 IV. Narzędzia (programy)
   - cURL: umiejętność wykonywania żądań do serwera (GET, POST); dodawanie parametrów do requestu, ustawianie nagłówków
@@ -30,7 +34,7 @@ V. Bezpieczeństwo
 
 VI. Frontend
   - HTML5, CSS3, Sass
-  - znajmomość JavaScript (przynjamniej w wersji ES5, docelowo również nowszą - ES2015)
+  - znajmomość JavaScript (przynajamniej w wersji ES5, docelowo również nowszą - ES2015)
   - JQuery
 
 VII. Baza danych
@@ -41,3 +45,8 @@ VII. Baza danych
 VIII. Deployment
   - deployment na zewnętrznym 'czystym' serwerze VPS. Dodatkowo opcjonalnie na sererze PaaS, np. Heroku
   - narzędzia/skrypty deploymentu, np. Capistrano
+
+IX. Patterny
+  - zasada SOLID
+
+Czy trzeba mieć certyfikaty programistyczne (z kursów, szkoleń itp.)? Generalnie nie. Mogą być one dodatkowym atutem, miłym ozdobnikiem CV, ale nie należy im poświęcać dużej uwagi. Liczą się przede wszystkim umiejętności i wiedza którą posiadasz w momencie rekrutacji. Jeśli np. podczas studiów masz okazję zrobić jakiś certyfikat, za darmo lub okazjonalną cenę to warto co najmniej rozważyć wzięcie udziału w takim szkoleniu. Jednak nie wolno certyfikatów traktować jako kluczy, które magicznie otworzą nam drzwi dowolnego pracodawcy.
