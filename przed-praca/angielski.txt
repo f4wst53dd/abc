@@ -29,3 +29,4 @@ Kilka słów, których wymowa często przysparza problemy:
 - header: 'heder'
 - delete: 'dilit'
 - actually: 'akczuli'
+- miscellaneous: 'miselenies'
