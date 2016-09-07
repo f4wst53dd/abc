@@ -1,5 +1,0 @@
-bio
-
-Czy lepiej pracować na własną rękę, zamiast w firmie?
-
-Istnieje możliwość pracy jako tzw. 'freelancer', czyli programista, który sam znajduje klientów, i dla nich wykonuje pracę (zlecenia). Można pracować z domu, lub np. wynajmować miejsce w shared/coworking office, czyli biurze wynajmującym miejsca dla różnych, niepowiązanych ze sobą osób. Będąc freelancerem możemy wynegocjować sobie lepszą stawkę za pracę, wybierać projekty, nie poświęcać czasu na pracę w biurze (w przypadku pracy z domu). Minusami są chociażby konieczność wyszukiwania klientów i zleceń, konieczność zatroszczenia się o produkty biurowe takie jak woda, kawa, klimatyzacja itp. Dla początkującego programisty dodatkowo minusem będzie brak weryfikacji kodu (code review) czy brak możliwości skonsultowania się z bardziej doświadczonymi ludźmi. Dlatego najlepszą decyzją jest najpewniej przepracowanie co najmniej roku, dwóch lat w firmie programistycznej, nabycie umiejętności, kontaktów zawodowych, a dopiero wtedy ewentualna praca na własną rękę.
