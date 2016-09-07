@@ -26,7 +26,7 @@
  - źródła wiedzy
  - software
  - sprzet
- - porady
+ - [porady](blob/master/inne/porady.md)
  - produktywność
  - savoir vivre
  - zdrowie
