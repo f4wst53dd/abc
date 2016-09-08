@@ -2,9 +2,11 @@
 
 Staraj się nie jeść przy swoim biurku. Wyjątkiem może być śniadanie, jeśli uporamy się z nim szybko, zjemy go cicho, nie rozsiejemy mocnej woni po biurze, tudzież spożyjemy go wcześnie (gdy inni programiści już obecni również dopiero rozpoczynają dzień pracy).
 
-Nie odgrzewaj bigosu, wędzonej ryby czy innych mocno aromatycznych potraw w kuchni. Inaczej zasmrodzisz pół biura. Myj po sobie naczynia (lub wsadź je do zmywarki jeśli jest) natychmiast po jedzeniu. Bardzo ważne - nie zostawiaj brudnego talerza czy kubka w zlewozmywaku.
+Nie odgrzewaj bigosu, wędzonej ryby czy innych mocno aromatycznych potraw w kuchni. Inaczej zasmrodzisz pół biura. Myj po sobie naczynia (lub wsadź je do zmywarki jeśli jest) natychmiast po jedzeniu. Zabieraj swoje pojemniki na jedzenie; pamiętaj o każdej rzeczy włożonej do lodówki. Bardzo ważne - nie zostawiaj brudnego talerza czy kubka w zlewozmywaku.
 
 Nie siorb, ciamkaj, bekaj itp. Krótko mówiąc - nie wydawaj niepotrzebnych dźwięków przy jedzeniu. Jedna prosta rzecz, jaką jest trzymanie zamkniętych ust podczas przeżuwania pokarmu może uchronić pobliskie osoby od nieprzyjemności, zwł. jeśli one w tym czasie nie jedzą.
+
+Po defekacji użyj szczotki do muszli klozetowej, żeby nie zostawić po sobie śladów. W celu zamaskowania nieprzyjemnych zapachów dla innych, użyj odświeżacza powietrza, jeśli jest dostępny w łazience.
 
 Utrzymuj higienę osobistą. Myj się codziennie, lub nieco rzadziej (jeśli nie jest gorąco, nie dojeżdżasz rowerem, nie przychodzisz pieszo do pracy, nie uprawiasz sportu po pracy itp.). Dezodorant nie jest zastępstwem mydła. Obcinaj paznokcie i nie strasz bliźnich dziwnym, wielodniowym zarostem. Myj regularnie zęby, albo jak nie masz zrobić tego w pracy, to przynajmniej żuj gumę. Używaj nici dentystycznych. Zmieniaj regularnie bieliznę, skarpetki, T-shirty. Jeśli chcesz dać odpocząć nogom w biurze przebieraj zewnętrzne obuwie na klapki lub podobne.
 
