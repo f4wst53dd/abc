@@ -13,3 +13,11 @@ Opis rzeczy przestawionych tutaj może różnić się od haseł encyklopedystycz
 ## Dla kogo on jest?
 
 Ten poradnik jest przeznaczony przede wszystkim dla osób chcących podjąć pierwszą pracę w zawodzie programisty - web developera. Osoby pracujące od niedawna w tym zawodzie, czy też ci, którzy dopiero są na etapie edukacji w szkole średniej/na studiach również mogą wynieść z niego wiele pożytecznych (mam nadzieję) informacji.
+
+## Kontakt
+
+Pytania? Uwagi? Sugestie? Proszę o kontakt poprzez pocztę elektroniczną: bsisbh5tg@mail.com
+
+## Darowizny
+
+Ten poradnik jest całkowicie darmowy, i takim pozostanie. Jeśli ktoś uzna, że chciałby wesprzeć autora, to można to zrobić przez przelanie datku na konto 77249010570000990080061076 (Alior Bank SA)
