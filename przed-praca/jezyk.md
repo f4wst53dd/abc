@@ -26,7 +26,7 @@ Istnieje również bardzo dużo frameworków HTML/CSS, które zawierają zestaw 
 
 W praktyce dany język wykorzystuje się razem z frameworkiem, dlatego poniższa lista podaje ich przykłady:
 
-- Java (Play, Spark)
+- Java (Play, Spark, Akka HTTP)
 - PHP (Laravel, Symfony, Zend)
 - Python (Django, Flask)
 - Ruby (Ruby on Rails, Sinatra)
@@ -34,6 +34,7 @@ W praktyce dany język wykorzystuje się razem z frameworkiem, dlatego poniższa
 - Elixir (Phoenix)
 - Go (Beego, Revel)
 - C# (ASP.NET)
+- Scala (Play, Spark, Akka HTTP)
 
 Który język i jaki framework wybrać? Możemy podjąć decyzję biorąc pod uwagę kilka kryteriów:
 a) popularność. Im więcej osób korzysta z danej technologii, tym łatwiej znaleźć materiały, książki, pomoc na forach itp. Nie mniej istotna jest ilość ofert pracy. Z wymienionych wyżej języków najmniej popularnymi są Go i Elixir, a najpopularniejszymi są Java i PHP.
