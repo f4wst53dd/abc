@@ -1,6 +1,6 @@
 # ABC web developera
 
-Poradnik dla osób chcących zostać web developerem.
+Poradnik dla osób chcących zostać web developerem, jak i początkujących w tej branży.
 
 Więcej szczegółów: sekcja [o poradniku](wstep/o_poradniku.md)
 
