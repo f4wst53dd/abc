@@ -6,9 +6,9 @@ Dodatkowo, możesz w firmie otrzymać komputer ze takim systemem, lub z OS X, kt
 
 ## Zalety używania Linuxa jako platformy do programowania
 
-Linux uczy minimalizmu, prostoty. Filozofię architektury Linuxa można streścić tak: 'uniwesalny, wyizolowany, mały program do rozwiązywania danego problemu, a rezultat jego działania można bezpośrednio użyć jako wejście (input) do innego programu (potokowanie/piping)’. Takie podejście w większym lub mniejszym stopniu będzie bardzo wskazane przy pisaniu oprogramowania. Modularność, czyli rozbicie dużego programu na szereg mniejszych części (modułów), tak, aby zachować przejrzystość w kodzie, a raz napisany moduł móc wykorzystać w tej samej aplikacji, albo w innym projekcie jest powszechna, często przytaczana jako poprawna technika.
+Linux uczy minimalizmu, prostoty. Filozofię architektury Linuxa można streścić tak: 'uniwesalny, wyizolowany, mały program do rozwiązywania danego problemu, a rezultat jego działania można bezpośrednio użyć jako wejście (input) do innego programu (potokowanie/piping)'. Takie podejście w większym lub mniejszym stopniu będzie bardzo wskazane przy pisaniu oprogramowania. Modularność, czyli rozbicie dużego programu na szereg mniejszych części (modułów), tak, aby zachować przejrzystość w kodzie, a raz napisany moduł móc wykorzystać w tej samej aplikacji, albo w innym projekcie jest powszechna, często przytaczana jako poprawna technika.
 
-Oprócz ‘administracyjnych’ czynności (typu tworzenie katalogów, obserwowanie procesów etc.) konsola Linuxa stanowi często wygodniejsze, szybsze środowisko uruchomienia kluczowych przy developmencie programów. Doskonałym przykładem jest 'git', rozproszony system kontroli wersji oprogramowania. Istnieją GUI (interfejsy graficzne) dla gita, jednak w znakomitej większości przypadków użycie gita z poziomu konsoli (CLI) będzie szybsze i wygodniejsze.
+Oprócz 'administracyjnych' czynności (typu tworzenie katalogów, obserwowanie procesów etc.) konsola Linuxa stanowi często wygodniejsze, szybsze środowisko uruchomienia kluczowych przy developmencie programów. Doskonałym przykładem jest 'git', rozproszony system kontroli wersji oprogramowania. Istnieją GUI (interfejsy graficzne) dla gita, jednak w znakomitej większości przypadków użycie gita z poziomu konsoli (CLI) będzie szybsze i wygodniejsze.
 
 ## Przykłady najważniejszych poleceń w konsoli
 
@@ -20,7 +20,7 @@ Oprócz ‘administracyjnych’ czynności (typu tworzenie katalogów, obserwowa
 - wyszukiwanie plików (find)
 - tworzenie dowiązań do plików (ln)
 - wyświetlenie, dodawanie/usuwanie wpisów zmiennych środowiskowych (environment variables) np. $PATH (export, printenv)
-- używanie potoków do przekazywania danych (operator: ‘|‘ )
+- używanie potoków do przekazywania danych (operator: '|' )
 - wyświetlenie wolnego miejsca na dysku (partycji) oraz ile danych zawiera dany katalog (df, du)
 - wyświetlenie zawartości plików (cat, less, tail, tailf), grepowanie (grep)
 - wyświetlenie statystyk użycia zasobów systemu przez poszczególne procesy (top, htop); ogólne statystyki użycia RAM (free)
