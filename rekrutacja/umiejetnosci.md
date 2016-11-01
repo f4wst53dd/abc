@@ -22,7 +22,7 @@ Web development jest dosyć szeroką dziedziną. Rozmowa techniczna będzie mia�
 
 3. Stack sieciowy
   - znajomość podstaw działania i używania serwera aplikacji (np. Tomcat, Phusion Passenger); dodatkowo np. Nginx (w roli reverse proxy)
-  - znajomość protokołów HTTP (metody GET, POST itp., jak wygląda request HTTP, odpowiedź HTTP ). Co nowego wprowadza HTTP/2 w porównaniu do HTTP 1.1? Model OSI; protokół TCP i model TCP/IP, co to jest DNS.
+  - znajomość protokołu HTTP (metody GET, POST itp., jak wygląda request HTTP, odpowiedź HTTP ). Co nowego wprowadza HTTP/2 w porównaniu do HTTP 1.1? Model OSI; protokół TCP i model TCP/IP, co to jest DNS. Kody odpowiedzi HTTP, znajmość [najpopularniejszych kodów](https://www.smartlabsoftware.com/ref/http-status-codes.htm), lub przynajmniej grup (1xx - informacyjne, 2xx - powodzenia, 3xx - przekierowania, 4xx - błędu klienta, 5xx - błędu serwera).
   - REST, metody HTTP (GET, POST itp.)
   - ciasteczka (cookies)
   - URL - z jakich elementów składa się
