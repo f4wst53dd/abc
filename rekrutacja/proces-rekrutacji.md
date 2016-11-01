@@ -10,7 +10,7 @@ Proces rekrutacji może różnić się. Każda firma posiada własny system, gdz
 
 ## Rozmowa rekrutacyjna (w biurze)
 
-Przychodzimy kilka minut przed umówioną godziną, lub równo, jednak nie wcześniej niż 10 minut przed. Ubiór jest mało istotny. Garnitur nie jest potrzebny, wystarczy ubranie nieco bardziej eleganckie niż na co dzień. Warto porządnie się wyspać - tak jak w przypadku egzaminów na studiach o wiele lepiej podejść ze sprawnym umysłem, niż po nocach starać się nadrabiać braki w wiedzy.
+Przychodzimy kilka minut przed umówioną godziną, lub równo, jednak nie wcześniej niż 10 minut przed. Ubiór jest mało istotny. Garnitur nie jest potrzebny, wystarczy ubranie nieco bardziej eleganckie niż te zakładane na co dzień. Warto porządnie się wyspać - tak jak w przypadku egzaminów na studiach o wiele lepiej podejść ze sprawnym umysłem, niż starać się nadrabiać braki w wiedzy poświęcając na ten cel noc przed rozmową.
 
 Jak przygotować się do rozmowy kwalifikacyjnej?
 
@@ -76,7 +76,7 @@ Prawda jest taka, że nie zawsze nasze umiejętności mają dokładne przełoże
 - firma nie szuka developera aktywnie, zatem biorą tylko bardzo dobrych
 - podałeś zbyt wysoką stawkę płacy
 
-Szaleństwo to powtarzanie wciąż tych samych czynności licząc na inny rezultat. Skoro n razy poniosłeś porażkę, to obecnie coś źle robisz. Przede wszystkim musisz stwierdzić przez jaki element(y) przegrywasz. Np. na rozmowie poradziłeś sobie dobrze z programowaniem w Pythonie, ale poległeś na trywialnych zadaniach z Javascriptu. Wnioskek: "muszę podszkolić się z JS". Inny przykład: "rozmowa techniczna poszła mi nieźle, ale rozmowa po angielsku poszła mi fatalnie. Powinienem poćwiczyć mówienie po angielsku".
+Szaleństwo to powtarzanie wciąż tych samych czynności licząc na inny rezultat. Skoro n razy poniosłeś porażkę, to obecnie coś źle robisz. Przede wszystkim musisz stwierdzić przez jaki element(y) przegrywasz. Np. na rozmowie poradziłeś sobie dobrze z programowaniem w Pythonie, ale poległeś na trywialnych zadaniach z Javascriptu. Wniosek: "muszę podszkolić się z JS". Inny przykład: "rozmowa techniczna poszła mi nieźle, ale rozmowa po angielsku poszła mi fatalnie. Powinienem poćwiczyć mówienie po angielsku".
 
 Być może masz jeszcze za mało doświadczenia programistycznego, nawet na juniora. Być może warto rozważyć tymczasową pracę "okołoprogramistyczną", typu tester oprogramowania, czy helpdesk. Przez kilka miesięcy popracować tam, w międzyczasie poduczyć się, zrobić dodatkowy projekt, i ponownie rekrutować się na web developera. Nawet jeśli nie podążymy tą drogą, to ponownie składać CV do tej samej firmy nie warto wcześniej niż po kilku miesiącach (4-6 miesiące). Jest to czas, po którym potencjalnie możesz zaprezentować nowego, lepszego siebie, a nie tylko zawracać głowę.
 
@@ -85,3 +85,11 @@ Warto składać CV do firmy nawet jeśli w ogłoszeniu o pracę lista umiejętno
 Ciekawym podejściem odnośnie wymagań na stanowisko może być niejako odwrócenie ról - zamiast czytać listę umiejętności w ogłoszeniu możesz zadzwonić do firmy, i poprosić o 10 minut rozmowy. Podczas rozmowy powiedz, że jesteś zainteresowany pracą w waszej firmie na stanowisku X, i nie jesteś pewien, czy twój obecny stan wiedzy/doświadczenia jest odpowiedni. Zapytaj się jakich umiejętności opanowanie będzie najbardziej kluczowe, na czym powinieneś się skupić. Jeśli firma nie będzie chciała poświęcić kilku minut na taką rozmowę z potencjalnym pracownikiem to może być to żółte światło dla ciebie - czy chciałbyś pracować w firmie, która nie chce poświęcić kilku minut na rozmowę z potencjalnym pracownikiem?
 
 Czy potrzebne jest posiadanie konta na serwisach typu LinedIn, GoldenLine itp.? Prawdopodobnie nie. Zwiększają one szansę bycia znalezionym, ale jednocześnie stanowią one przyczółek działalności spamerskiej rekruterów, którzy wysyłają dużo wiadomości, według zasady: 'ilość nie jakość'.
+
+## Gdzie szukać ogłoszeń o pracę?
+
+Firmy programistyczne często umieszczają ogłoszenia o pracę w kilku różnych miejscach, bo zależy im na dotarciu do jak największego grona odbiorców (czyt.: potencjalnych pracowników). Przede wszystkim warto przeglądać portale przeznaczone do tego celu. Wpisując w google frazę 'praca', 'praca web developer', albo np. 'praca react' znajdziemy wiele stron z ofertami. Możemy również w wynikach znaleźć witryny konkretnych firm, które mają wakat. Firmy programistyczne można również wyszukać przez frazę technologia + miasto, np.: 'warszawa ruby on rails'. Szukamy wtedy na stronie firmy odnośników: 'Praca', 'Careers' itp. Pomocnym może być zawężenie wyników wyszukiwań do np. ostatniego miesiąca.
+
+Kolejnym etapem poszukiwań ofert mogą być portale społecznościowe. Istnieją grupy na [facebooku](https://www.facebook.com) przeznaczone do umieszczania ofert pracy. Wystarczy na głównej stronie portalu wyszukać frazę 'praca frontend', 'praca programista' lub podobne. Dodatkowo poszczególne firmy dodają posty o pracy na własnych fanpage na facebooku.
+
+Warto śledzić tablice ogłoszeniowe na uczelni, posty na internetowym forum roku. Dodatkowo pomocnym może stać się uczestnictwo w warsztatach programistycznych, wykładach/szkoleniach prowadzonych przez firmy, dniach kariery, targach pracy. Ostatnim, jednak nie mniej ważnym źródłem informacji są nieformalne rozmowy ze znajomymi, którzy sami pracują w branży, lub np. mają partnera/partnerkę, kolegę itp., który jest web developerem.
