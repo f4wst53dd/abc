@@ -92,4 +92,6 @@ Firmy programistyczne często umieszczają ogłoszenia o pracę w kilku różnyc
 
 Kolejnym etapem poszukiwań ofert mogą być portale społecznościowe. Istnieją grupy na [facebooku](https://www.facebook.com) przeznaczone do umieszczania ofert pracy. Wystarczy na głównej stronie portalu wyszukać frazę 'praca frontend', 'praca programista' lub podobne. Dodatkowo poszczególne firmy dodają posty o pracy na własnych fanpage na facebooku.
 
+Dużo ogłoszeń można znaleźć również na forach internetowych poświęconych danemu językowi/danej technologii, a także ogólnych, programistycznych. Wystarczy wyszukać w google frazę 'forum programowanie', czy 'forum php', po czym wejść na podforum poświęcone ofertom pracy (zwykle powinno takie podforum instnieć). Czasem jest możliwość zgłoszenia samemu chęci podjęcia pracy, w przeznaczonym do tego dziale.
+
 Warto śledzić tablice ogłoszeniowe na uczelni, posty na internetowym forum roku. Dodatkowo pomocnym może stać się uczestnictwo w warsztatach programistycznych, wykładach/szkoleniach prowadzonych przez firmy, dniach kariery, targach pracy. Ostatnim, jednak nie mniej ważnym źródłem informacji są nieformalne rozmowy ze znajomymi, którzy sami pracują w branży, lub np. mają partnera/partnerkę, kolegę itp., który jest web developerem.
