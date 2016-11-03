@@ -2,7 +2,7 @@
 
 * Wstęp:
  * [o poradniku](wstep/o_poradniku.md)
- * powody dlaczego zostać programistą (web developerem)
+ * [dlaczego zostać programistą (web developerem)](wstep/dlaczego_zostac_programista.md)
 
 * Przed pracą:
  * [studia](przed-praca/studia.md)

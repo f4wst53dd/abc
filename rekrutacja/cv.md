@@ -67,7 +67,7 @@ Wymieniamy tutaj uczelnie wyższe/szkoły policealne, wraz z latami edukacji i u
 
 ### Języki obce
 
-Wymieniamy tutaj umiejętności komunikacji w innych językach niż ojczystym. Obowiązkowo z określeniem poziomu, oraz opcjonalnie z podziałem na umiejętności (czytanie, pisanie, mówienie) jeśli ich poziom jest różny dla danego języka. Poziom możemy określić za pomocą skali A1/A2/B1/B2/C1/C2, lub opisowo, np. 'pozniom pozwalający na rozumienie czytanej dokumentacji', lub 'Mowa: komunikatywnie'. Jeśli mamy certyfikat językowy (typu: Toefel, FCE, CAE) należy o tym napisać (również, gdy jesteśmy laureatami konkursów językowych). Przykład:
+Wymieniamy tutaj umiejętności komunikacji w innych językach niż ojczystym. Obowiązkowo z określeniem poziomu, oraz opcjonalnie z podziałem na umiejętności (czytanie, pisanie, mówienie) jeśli ich poziom jest różny dla danego języka. Poziom możemy określić za pomocą skali A1/A2/B1/B2/C1/C2, lub opisowo, np. 'poziom pozwalający na rozumienie czytanej dokumentacji', lub 'Mowa: komunikatywnie'. Jeśli mamy certyfikat językowy (typu: Toefel, FCE, CAE) należy o tym napisać (również, gdy jesteśmy laureatami konkursów językowych). Przykład:
 
 ```
 J. angielski:
