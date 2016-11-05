@@ -6,7 +6,7 @@ Jeśli posiadasz starszy sprzęt, lub o słabszych parametrach możesz użyć l�
 
 ## Na co warto zwracać uwagę przy wyborze komputera do programowania?
 
-- Dysk twardy - koniecznie SSD. Wielkość: minimum 128 GB, rozsądna pojemność 250GB. W razie potrzeby 2 dyski (szybki SSD na system i programy; oraz wolniejszy, pojemniejszy SATA - na rzadko wykorzystywane, duże pliki).
+- Dysk twardy - koniecznie SSD. Wielkość: minimum 128 GB, rozsądna pojemność 250GB. W razie potrzeby 2 dyski (szybki SSD na system i programy; oraz wolniejszy, pojemniejszy HDD - na rzadko wykorzystywane, duże pliki).
 - Ekran - jakikolwiek. Minimum o rozdzielczości full HD (1920x1080px). Ilość i konfiguracja w zależności od osobistych preferencji (sam ekran laptopa lub laptop + 1/2 monitory zewnętrzne). Jeśli pracujesz jako grafik/frontendowiec itp. być może matryca z lepszym odwzorowaniem kolorów będzie lepsza.
 - RAM - 4 GB to absolutne minimum; 8GB powinno wystarczyć do większości zastosowań; warto mieć możność dodania kości pamięci (wolny slot), żeby w razie potrzeby zwiększyć ilość RAMu.
 - Procesor - w web developmencie nie ma dużego znaczenia. Prawdopodobnie najlepszym wyborem będzie Intel i3/i5/i7, co najmniej 2 rdzenie/4 wątki. Jeśli masz zamiar programować aplikacje wykorzystujące w znacznym stopniu moc CPU warto rozważyć zakup mocniejszej jednostki (np. 4 rdzeniowy i5/i7).
