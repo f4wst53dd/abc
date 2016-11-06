@@ -2,6 +2,8 @@
 
 Web development jest dosyć szeroką dziedziną. Rozmowa techniczna będzie miała za zadanie stwierdzenie, czy twój stan wiedzy jest wystarczająco dobry z głównych technologii, oraz na ile szeroką wiedzę posiadasz z pozostałych elementów. Zatem rekrutując się na junior developera prawdopodobnie firma będzie od ciebie wymagać co najmniej dobrej znajomości języka lub/i frameworka (np. Java + Spring), oraz co najmniej podstaw z innych technologii, zagadnień.
 
+Część zagadnień została poruszona także w sekcji [studia](przed-praca/studia.md).
+
 1. Główny język, framework i środowisko
   - warto skupić się przede wszystkim właśnie na tych kluczowych technologiach
   - opanowanie składni języka - swobodne czytanie kodu, umiejętność tworzenia klas, dziedziczenia itp.
