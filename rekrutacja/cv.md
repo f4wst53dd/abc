@@ -23,7 +23,7 @@ Nie podajemy innych danych, takich jak data urodzenia. Opcjonalnie można umieś
 
 ### Doświadcznie zawodowe
 
-Chodzi o doświadczenie w zawodzie programisty, zatem najlepiej całkiem pominąć prace typu "2 miesiące przy zbiorze malin". Jeśli nie masz żadnego doświadczenia, pomijasz tą sekcję, nie umieszczając nawet jej tytułu. Jeśli pracowaliśmy już w zawodzie, umieszczamy nazwy firm, okresy pracy, nazwą stanowiska. Możemy pokusić się o bardziej rozbudowany opis nt. czym zajmowaliśmy się w danej firmie. Listę firm w których pracowaliśmy umieszczamy w kolejności okresu pracy: ostatnią pracę na górze, a pierwszą na samym dole. Uwzględniamy miesiące w datach. Przykład:
+Chodzi o doświadczenie w zawodzie programisty, zatem najlepiej całkiem pominąć prace typu '2 miesiące przy zbiorze malin'. Jeśli nie masz żadnego doświadczenia, pomijasz tą sekcję, nie umieszczając nawet jej tytułu. Jeśli pracowaliśmy już w zawodzie, umieszczamy nazwy firm, okresy pracy, nazwą stanowiska. Możemy pokusić się o bardziej rozbudowany opis nt. czym zajmowaliśmy się w danej firmie. Listę firm w których pracowaliśmy umieszczamy w kolejności okresu pracy: ostatnią pracę na górze, a pierwszą na samym dole. Uwzględniamy miesiące w datach. Przykład:
 
 ```
 SuperFirma sp. z o.o. (02.2010 - 11.2013) - Java Developer
@@ -76,7 +76,7 @@ J. angielski:
 
 J. francuski - poziom podstawowy (A1)
 
-Finalista Olimpiamy Języka Angielskiego 2014
+Finalista Olimpiady Języka Angielskiego 2014
 ```
 
 Należy napisać krótką wiadomość w formularzu na stronie rekrutacji/w emailu, gdzie wyrażamy zainteresowanie ofertą pracy. Upewniamy się, czy napisaliśmy nazwę stanowiska dokładnie tak jak w ogłoszeniu. Np.:
@@ -93,4 +93,4 @@ Imię Nazwisko
 
 CV nie musi być szczególnie oryginalne, dopieszczone pod względem wizualnym. Korzystanie z jakiegoś wymyślnego szablonu nie jest konieczne. Należy skupić się przede wszystkim na zwięzłości, przejrzystości; na przekazaniu maksymalnej ilości informacji (takich, które zainteresują rekrutera).
 
-Nie pisz "dobra znajomość pakietu Office", chyba że naprawdę go znasz bardzo dobrze.
+Nie pisz 'dobra znajomość pakietu Office', chyba że naprawdę go znasz bardzo dobrze.

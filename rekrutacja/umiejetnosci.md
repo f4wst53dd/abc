@@ -23,17 +23,17 @@ Część zagadnień została poruszona także w sekcji [studia](przed-praca/stud
   - analiza profilingu (w Chrome zakładka timeline)
 
 3. Stack sieciowy
-  - znajomość podstaw działania i używania serwera aplikacji (np. Tomcat, Phusion Passenger); dodatkowo np. Nginx (w roli reverse proxy)
+  - znajomość podstaw działania i używania serwera aplikacji (np. [Tomcat](http://tomcat.apache.org/), [Phusion Passenger](https://www.phusionpassenger.com/)); dodatkowo np. [Nginx](http://nginx.org/) (w roli reverse proxy)
   - znajomość protokołu HTTP (metody GET, POST itp., jak wygląda request HTTP, odpowiedź HTTP ). Co nowego wprowadza HTTP/2 w porównaniu do HTTP 1.1? Model OSI; protokół TCP i model TCP/IP, co to jest DNS. Kody odpowiedzi HTTP, znajmość [najpopularniejszych kodów](https://www.smartlabsoftware.com/ref/http-status-codes.htm), lub przynajmniej grup (1xx - informacyjne, 2xx - powodzenia, 3xx - przekierowania, 4xx - błędu klienta, 5xx - błędu serwera).
-  - REST, metody HTTP (GET, POST itp.)
+  - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer), metody HTTP (GET, POST itp.)
   - ciasteczka (cookies)
   - URL - z jakich elementów składa się
 
 4. Narzędzia (programy)
-  - cURL: umiejętność wykonywania żądań do serwera (GET, POST); dodawanie parametrów do requestu, ustawianie nagłówków
+  - [cURL](https://curl.haxx.se/): umiejętność wykonywania żądań do serwera (GET, POST); dodawanie parametrów do requestu, ustawianie nagłówków
 
 5. Bezpieczeństwo
-  - znajomość popularnych zagrożeń (lista OWASP Top 10), oraz wiedza jak się przed nimi zabezpieczać
+  - znajomość popularnych zagrożeń (lista [OWASP Top 10](https://www.owasp.org/index.php/Top10#OWASP_Top_10_for_2013), oraz wiedza jak się przed nimi zabezpieczać
   - podstawy wiedzy nt. SSL, SSH, kryptografii symetrycznej/asymetrycznej
 
 6. Frontend
@@ -48,9 +48,9 @@ Część zagadnień została poruszona także w sekcji [studia](przed-praca/stud
 
 8. Deployment
   - deployment na zewnętrznym 'czystym' serwerze VPS. Dodatkowo opcjonalnie na serwerze PaaS, np. Heroku
-  - narzędzia/skrypty deploymentu, np. Capistrano
+  - narzędzia/skrypty deploymentu, np. [Capistrano](http://capistranorb.com/)
 
 9. Patterny
-  - zasada SOLID
+  - [zasada SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
 Czy trzeba mieć certyfikaty programistyczne (z kursów, szkoleń itp.)? Generalnie nie. Mogą być one dodatkowym atutem, miłym ozdobnikiem CV, ale nie należy im poświęcać dużej uwagi. Liczą się przede wszystkim umiejętności i wiedza którą posiadasz w momencie rekrutacji. Jeśli np. podczas studiów masz okazję zrobić jakiś certyfikat, za darmo lub okazjonalną cenę to warto co najmniej rozważyć wzięcie udziału w takim szkoleniu. Jednak nie wolno certyfikatów traktować jako kluczy, które magicznie otworzą nam drzwi dowolnego pracodawcy.
