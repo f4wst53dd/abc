@@ -9,7 +9,7 @@ Nie należy przesadzać z ilością języków programowania, bibliotek które b�
 
 Przykłady języków, technologii wartych zastosowania:
 - front-end: czysty [JavaScript](https://en.wikipedia.org/wiki/JavaScript), lub wraz z [JQuery](https://jquery.com/). Pluginy JQuery w zależności od potrzeb. Być może warto wykorzystać framework JavaScriptowy, typu [AngularJS](https://angularjs.org/), [Ember.js](http://emberjs.com/). Być może przydatny będzie [Bootstrap](http://getbootstrap.com/).
-- baza danych: [PostgreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.com/), [SQLite](https://sqlite.org/). Lub baza [NoSQL](https://en.wikipedia.org/wiki/NoSQL), jeśli jej użycie jest uzasadnione: [MongoDB](https://www.mongodb.com/), [Redis](http://redis.io/), [Cassandra](http://cassandra.apache.org/).
+- baza danych: [PostgreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.com/), [Oracle Database](https://www.oracle.com/database/index.html), [SQLite](https://sqlite.org/). Lub baza [NoSQL](https://en.wikipedia.org/wiki/NoSQL), jeśli jej użycie jest uzasadnione: [MongoDB](https://www.mongodb.com/), [Redis](http://redis.io/), [Cassandra](http://cassandra.apache.org/).
 - framework backendowy: [Django](https://www.djangoproject.com/), [Ruby on Rails](http://rubyonrails.org/), [Spring](https://projects.spring.io/spring-framework/), [Symfony](https://symfony.com/), ([Laravel](https://laravel.com/), [Play](https://www.playframework.com/)
 
 Więcej informacji na temat technologii i frameworków znajduje się w sekcjach [główny język programowania, inne technologie](/przed-praca/jezyk.md) oraz [bazy danych](/przed-praca/bazy-danych.md).
