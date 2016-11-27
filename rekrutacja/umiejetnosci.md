@@ -1,6 +1,6 @@
 # Umiejętności programistyczne
 
-Web development jest dosyć szeroką dziedziną. Rozmowa techniczna będzie miała za zadanie stwierdzenie, czy twój stan wiedzy jest wystarczająco dobry z głównych technologii, oraz na ile szeroką wiedzę posiadasz z pozostałych elementów. Zatem rekrutując się na junior developera prawdopodobnie firma będzie od ciebie wymagać co najmniej dobrej znajomości języka lub/i frameworka (np. Java + Spring), oraz co najmniej podstaw z innych technologii, zagadnień.
+Web development jest dosyć szeroką dziedziną. Rozmowa techniczna będzie miała za zadanie stwierdzenie, czy twój stan wiedzy jest wystarczająco dobry z głównych technologii oraz na ile szeroką wiedzę posiadasz z pozostałych elementów. Zatem rekrutując się na junior developera prawdopodobnie firma będzie od ciebie wymagać co najmniej dobrej znajomości języka lub/i frameworka (np. Java + Spring) oraz co najmniej podstaw z innych technologii, zagadnień.
 
 Część zagadnień została poruszona także w sekcji [studia](przed-praca/studia.md).
 
@@ -33,7 +33,7 @@ Część zagadnień została poruszona także w sekcji [studia](przed-praca/stud
   - [cURL](https://curl.haxx.se/): umiejętność wykonywania żądań do serwera (GET, POST); dodawanie parametrów do requestu, ustawianie nagłówków
 
 5. Bezpieczeństwo
-  - znajomość popularnych zagrożeń (lista [OWASP Top 10](https://www.owasp.org/index.php/Top10#OWASP_Top_10_for_2013), oraz wiedza jak się przed nimi zabezpieczać
+  - znajomość popularnych zagrożeń (lista [OWASP Top 10](https://www.owasp.org/index.php/Top10#OWASP_Top_10_for_2013) oraz wiedza jak się przed nimi zabezpieczać
   - podstawy wiedzy nt. SSL, SSH, kryptografii symetrycznej/asymetrycznej
 
 6. Frontend

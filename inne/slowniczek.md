@@ -54,7 +54,7 @@
 
 - __linter__ - program, który analizuje kod aplikacji, i zgłasza potencjalne błędy składniowe, stylistyczne itp. Przykład: ESLint, popularny linter dla języka JavaScript.
 
-- __request (żądanie)__ - jest to odpytywanie zasobów, często dostając odpowiedź, która zawiera informację nt. pomyślności wykonania tego requestu. Przykładowo, wchodząc na jakąś stronę przeglądarka wykonywuje zwykle wiele requestów. Pobranie zawartości strony internetowej wiąże się z wykonywaniem osobnych requestów do pobrania kodu HTML, plików stylów CSS, plików JavaScriptu, obrazków). W celu zmniejszenia ilości requestów dla środowiska produkcyjnego, wykonuje się minifikację i konkatenację plików JS i CSS (nie HTML!), oraz sprite'y obrazków.
+- __request (żądanie)__ - jest to odpytywanie zasobów, często dostając odpowiedź, która zawiera informację nt. pomyślności wykonania tego requestu. Przykładowo, wchodząc na jakąś stronę przeglądarka wykonywuje zwykle wiele requestów. Pobranie zawartości strony internetowej wiąże się z wykonywaniem osobnych requestów do pobrania kodu HTML, plików stylów CSS, plików JavaScriptu, obrazków). W celu zmniejszenia ilości requestów dla środowiska produkcyjnego, wykonuje się minifikację i konkatenację plików JS i CSS (nie HTML!) oraz sprite'y obrazków.
 
 - __endpoint__ - jest to adres URL, na który możemy wykonywać requesty. Np. dana strona może mieć kilka endpointów, 'http://example.com/songs' zwracający listę piosenek, 'http://example.com/books/xyz' - zwracający listę książek autora 'xyz'
 
