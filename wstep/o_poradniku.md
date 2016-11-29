@@ -16,7 +16,7 @@ Ten poradnik jest przeznaczony przede wszystkim dla osób chcących podjąć pie
 
 ## Kontakt
 
-Pytania? Uwagi? Sugestie? Proszę o kontakt poprzez pocztę elektroniczną: bsisbh5tg@mail.com
+Pytania? Uwagi? Sugestie? Proszę o utworzenie [nowego issue na githubie](https://github.com/f4wst53dd/abc/issues/new) lub kontakt poprzez pocztę elektroniczną: bsisbh5tg@mail.com
 
 ## Darowizny
 
