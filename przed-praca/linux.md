@@ -2,7 +2,7 @@
 
 Jedną z ważniejszych umiejętności które według mnie powinien opanować każdy programista/web developer jest znajomość systemu Linux, co najmniej w stopniu przynajmniej podstawowym. Nawet jeśli swoje środowisko developerskie stworzyłeś pod kontrolą innego systemu, np. Windows, to istnieje duża szansa, że umiejętności podstaw obsługi systemu uniksopodobnego kiedyś przydadzą ci się. Przykładowo wersja stage lub produkcyjna aplikacji którą tworzysz w firmie będzie zdeployowana na maszynie z [Debianem](https://www.debian.org/), [Ubuntu](https://www.ubuntu.com/) czy [CentOS](https://www.centos.org/). Możesz zostać poproszony o wyciągnięcie logów aplikacji, zainstalowanie nowego narzędzia na tym serwerze itp. Wtedy nawet niezbyt zaawansowana wiedza nt. poruszania się w 'terminalowym' systemie linuksowym (bez środowiska graficznego) będzie na wagę złota.
 
-Dodatkowo, możesz w firmie otrzymać komputer ze takim systemem, lub z [macOS](https://en.wikipedia.org/wiki/MacOS), który również jest oparty na jądrze Linuxa, i ma terminal, który ma taką powłokę jak linux (bash).
+Dodatkowo, w pracy możesz otrzymać komputer z takim systemem, lub z [macOS](https://en.wikipedia.org/wiki/MacOS), który ma taką samą powłokę jak większość dystrybucji Linuxa (bash).
 
 ## Zalety używania Linuxa jako platformy do programowania
 
