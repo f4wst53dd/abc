@@ -23,11 +23,11 @@ W zależności od firmy twoja wizyta będzie jednoczęściowa, lub kilkuczęści
 - jakie technologie/języki programowania cię interesują
 - jakie masz doświadczenie, w jakich projektach brałeś udział
 - czy jesteś otwarty na wyjazdy szkoleniowe za granicę
-- za jaką kwotę byłbyś zgodny u nas pracować?
+- za jaką kwotę byłbyś zgodny u nas pracować
 - jaką formę współpracy preferujesz (umowa o pracę, B2B)
 - od kiedy potencjalnie mógłbyś zacząć u nas pracować
 
-Być może część rozmowy lub całość (rzadziej) będzie przeprowadzona po angielsku. Celem jest oczywiście sprawdzenie jest dobrze radzisz sobie ze słuchaniem, a przede wszystkim z rozmawianiem po angielsku. Prawdopodobnie podany będzie jakiś lekki temat, typu jakie jest twoje ulubione hobby. Warto zwrócić uwagę przede wszystkim na wyraźne i jak wymawianie słów - co z tego, jak ktoś potrafi mówić bardzo szybko, podczas gdy niewiele daje się z tego zrozumieć. Zatem lepiej mówić nieco wolniej, ale składniej. Lepiej unikać (wielokrotnie) złożonych zdań, skomplikowanych wyrażeń i słów, nawet gdy mamy je dobrze opanowane. Może pomóc również szybkie ułożenie sobie planu najbliższego zdania/zdań.
+Zwykle część rozmowy lub jej całość (rzadziej) będzie przeprowadzona po angielsku. Celem jest oczywiście sprawdzenie jest dobrze radzisz sobie ze słuchaniem, a przede wszystkim z rozmawianiem po angielsku. Prawdopodobnie podany będzie jakiś lekki temat, typu jakie jest twoje ulubione hobby. Warto zwrócić uwagę przede wszystkim na wyraźne i jak wymawianie słów - co z tego, jak ktoś potrafi mówić bardzo szybko, podczas gdy niewiele daje się z tego zrozumieć. Zatem lepiej mówić nieco wolniej, ale składniej. Lepiej unikać (wielokrotnie) złożonych zdań, skomplikowanych wyrażeń i słów, nawet gdy mamy je dobrze opanowane. Może pomóc również szybkie ułożenie sobie planu najbliższego zdania/zdań.
 
 Dwie najciekawsze kwestie (formy umowy i zarobków) wymagają szerszego opisu. Umowa Bussiness-to-Bussiness (B2B) wymaga większego zaangażowania 'papierkologicznego'. Będziesz musiał założyć własną działalność gospodarczą, sami płacimy składki ZUS, musimy co miesiąc wysyłać faktury VAT. Nie musimy samemu opanowywać tej księgowości, możemy wynająć do tego księgową. W porównaniu do umowy o pracę dostaniemy więcej pieniędzy od firmy. Możemy odliczyć VAT np. przy zakupie książek IT czy komputera. Zaletami umowy o pracę jest z kolei brak potrzeby zajmowania się księgowością (oprócz corocznego rozliczenia podatkowego) oraz łatwiejsze uzyskanie kredytu w banku.
 
@@ -42,7 +42,6 @@ Najważniejsza i najtrudniejsza część rekrutacji jest to rozmowa stricte tech
 Po tej serii pytań może być przedłożony tobie kod, na komputerze lub kartce. Twoim zadaniem będzie opisanie co wykonują wybrane instrukcje. Możesz zostać poproszony o ocenę jakości kodu, i zaproponowanie poprawek (np. wydajnościowych, stylistycznych).
 
 Kolejnym, bardzo ważnym elementem technicznej rozmowy może być pisanie kodu, na kartce, tablicy lub komputerze. Mogą być to zarówno kilka małych programików (typu napisz funkcję odwracającą podany łańcuch znaków, bez użycia wbudowanych w język/bibliotekę standardową/framework metod), lub pojedynczy większy (np. implementacja systemu zarządzania wypożyczalnią samochodów). Zwykle rekruterzy będą cały czas obecni, aktywnie uczestnicząc w procesie kodowania, jednocześnie dopytując się różnych rzeczy, nakierowując ciebie, lub udzielając wskazówek.
-
 
 Podczas tego etapu warto 'głośno myśleć', tzn. nawet jeśli nie wiemy jak rozwiązać zadanie, jak wykonać następny krok, powinniśmy wyartykułować większość myśli, które przemykają nam przez głowę. Dzięki temu rekruter będzie wiedział, że pod twoją czaszką zachodzą jakieś procesy myślowe, że starasz się rozwiązać problem. Nawet nie do końca poprawne 'krążenie' wokół zadania jest o wiele lepsze niż milczenie, czy powiedzenie 'nie wiem jak to zrobić'. Również stwierdzenie typu 'nie pamiętam nazwy tej metody, ale można to znaleźć w 10 sekund na stronie API' jest pożądane, jeśli nie nadużyjemy go w rozmowie.
 
@@ -66,7 +65,7 @@ Prawda jest taka, że nie zawsze nasze umiejętności mają dokładne przełoże
 - nie masz doświadczenia w rozmowach o pracę
 - masz za mało doświadczenia w web developmencie
 - nie poćwiczyłeś kodowania przed rozmową, i nie pamiętałeś składni języka
-- ciężko myślało ci się, przez niewyspanie, zmęczenia, stres
+- ciężko ci się myślało, np. przez niewyspanie, zmęczenie, stres
 - twoje umiejętności w komunikacji w j. obcym są za małe
 - twoje umiejętności w komunikacji ogólnie są zbyt małe
 - trafiłeś akurat na takie pytania techniczne, z których nie masz dużej wiedzy
