@@ -42,7 +42,7 @@ Część zagadnień została poruszona także w sekcji [studia](przed-praca/stud
   - JQuery
 
 7. Baza danych
-  - znajomość PostgreSQL/MySQL. Obsługa bazy za pomocą GUI (np. PgAdmin dla PostgreSQL), jak i za pomocą interfejsu konsolowego
+  - znajomość PostgreSQL/MySQL
   - język SQL - znajomość podstawowych poleceń (tworzenie/edycja/usuwanie baz, tabel, rekordów; wyciąganie danych poleceniem SELECT)
   - zagadnienia optymalizacyjne: indeksy, N+1 query problem, sharding
 
