@@ -3,7 +3,7 @@
 ## Technikalia
 
 - format: .pdf, .doc lub .txt. Oczywiście można napisać je w formacie tekstowym, a później wyeksportować do formatu PDF.
-- zdjęcie: zwykle nie jest potrzebne. Nie aplikujesz na stanowisko, gdzie prezencja ma znaczenie.
+- zdjęcie: zwykle nie jest potrzebne. Nie aplikujesz na stanowisko gdzie prezencja ma znaczenie.
 - długość - CV powinno zmieścić sie na 1 lub 2 stronach formatu A4, przy użyciu czcionki wielkości 12p lub większej. Jeśli rekrutujesz się na staż/praktykę/1 pracę, to niemal na pewno będziesz mógł zmieścić się na pojedynczej stronie.
 - język - w zależności od firmy do której składamy CV i języka oferty pracy/stażu. Jeśli oferta jest w języku angielskim, piszemy po angielsku (możemy posłużyć się przykładami/szablonami z internetu, żeby użyć właściwych słów i zwrotów). W pozostałych przypadkach używamy języka polskiego.
 
@@ -19,7 +19,7 @@ tel.: 999999999
 e-mail: example@example.com
 ```
 
-Nie podajemy innych danych, takich jak data urodzenia. Opcjonalnie można umieścić miejscowość w której obecnie zamieszkujemy.
+Nie podajemy innych danych, takich jak PESEL, data urodzenia czy stan cywilny. Opcjonalnie można umieścić miejscowość w której obecnie zamieszkujemy, bez dokładnego adresu.
 
 ### Doświadcznie zawodowe
 
