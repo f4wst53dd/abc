@@ -100,7 +100,7 @@
 
 - __stack/stos (technologii)__ - jest to lista głównych technologii użytych w danej aplikacji. Dotyczy języków programowania, frameworków, bibliotek itp.
 
-- __vanilla__ (np. vanila JS) - jest to 'czysta' wersja kodu, napisana w danym języku, bez użycia dodatkowych bibliotek.
+- __vanilla__ (np. vanilla JS) - jest to 'czysta' wersja kodu, napisana w danym języku, bez użycia dodatkowych bibliotek.
 
 - __protokół__ - zbiór reguł dzięki którym dwa i więcej urządzeń/aplikacji/serwerów itp. może się komunikować, być w stanie wysłać informacje i zrozumieć otrzymane.
 

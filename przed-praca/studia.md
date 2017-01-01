@@ -38,6 +38,7 @@ Część zagadnień została poruszona także w sekcji [umiejętności](/rekruta
 
 - podstawowe algorytmy: rozwiązywanie równań liniowych i kwadratowych; algorytmy sortowania, rekurencyjne, algorytmy z nawrotami
 - typy danych: tablica, lista, stos, kolejka, drzewo, graf (oraz algorytmy dodawania/usuwania/wyszukiwania/sortowania ich elementów)
+- paradygmaty programowania: programowanie obiektowe, funkcyjne, itp.
 - złożoność obliczeniowa algorytmów (pamięciowa, czasowa)
 - systemy liczbowe: binarny, szesnastkowy, ósemkowy; reprezentacja ułamków binarnych ([standard IEEE 754](https://en.wikipedia.org/wiki/IEEE_floating_point))
 - architektura komputera: [Architektura von Neumanna](https://pl.wikipedia.org/wiki/Architektura_von_Neumanna), sposób zapisu danych w różnych typach pamięci i szybkość dostępu do tych danych (rejestry procesora vs cache procesora vs RAM vs dysk twardy); [big-endian/little-endian](https://en.wikipedia.org/wiki/Endianness); procesy, wątki
