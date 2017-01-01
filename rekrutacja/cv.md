@@ -19,7 +19,7 @@ tel.: 999999999
 e-mail: example@example.com
 ```
 
-Nie podajemy innych danych, takich jak PESEL, data urodzenia czy stan cywilny. Opcjonalnie można umieścić miejscowość w której obecnie zamieszkujemy, bez dokładnego adresu.
+Jeśli składamy CV po angielsku, do firmy amerykańskiej lub kanadyjskiej zamiast "CV" w tytule lepiej użyć słowo 'resume'. W tych krajach właśnie tak najczęściej określa się ten dokument. Nie podajemy innych danych, takich jak PESEL, data urodzenia czy stan cywilny. Opcjonalnie można umieścić miejscowość w której obecnie zamieszkujemy, bez dokładnego adresu.
 
 ### Doświadcznie zawodowe
 
@@ -92,5 +92,13 @@ Imię Nazwisko
 
 
 CV nie musi być szczególnie oryginalne, dopieszczone pod względem wizualnym. Korzystanie z jakiegoś wymyślnego szablonu nie jest konieczne. Należy skupić się przede wszystkim na zwięzłości, przejrzystości; na przekazaniu maksymalnej ilości informacji (takich, które zainteresują rekrutera).
+
+Prawdopodobnie nie ma sensu umieszczanie sekcji 'Hobby' czy 'Zainteresowania', chyba że mamy zamiar wymienić w niej pasje związane z technologiami komputerowymi, lub inne w jakikolwiek sposób pokrewne ze stanowiskiem na które się rekrutujesz.
+
+Przed wysłaniem CV koniecznie przeczytaj uważnie całość, najlepiej kilkukrotnie. Upewnij się czy nie ma w nim informacji zbędnych, nadmiarowych. Przykładowo nie piszemy czym jest dana technologia, np. zamiast 'B. dobra znajmość darmowej, relacyjnej bazy danych PostgreSQL' napisz 'B. dobra znajmość PostgreSQL'. Zwróć uwagę na błędy gramatyczne. Najprościej można przekonać się przez skopiowanie tekstu do edytora z wbudowanym słownikiem (Microsoft Word, LibreOffice Writer) - potencjalnie błędne słowa będą podkreślone na czerwono. Ta metoda nie wyłapie wszystkich błędów ortograficznych, zatem trzeba przeanalizować CV pod tym kątem również samemu. Dodatkowo możemy poprosić drugą osobę (znajomego, kogoś z rodziny) o dodatkowe sprawdzenie.
+
+Nie umieszczaj listy swoich zalet, zwłaszcza typu 'Umiejętność pracy w grupie', 'Wysokie umiejętności komunikacji z ludźmi', ponieważ są one bardzo oklepane, i nie niosą ze sobą żadnej informacji dla osoby rekrutującej. Natomiast zwroty 'Szybko się uczę', 'Chętnie poznam nowe technologie' itp. z kolei mogą postawić nas w negatywnym świetle, jako osoba, która jest zdesperowana, która podejmie każdą pracę, nawet nie pokrywającą się z posiadanymi umiejętnościami.
+
+Sprawdź także poprawność nazw technologii/języków programowania, ponieważ stosunkowo łatwo może wkraść się tam błąd, chociażby z winy autokorekty edytora.
 
 Nie pisz 'dobra znajomość pakietu Office', chyba że naprawdę go znasz bardzo dobrze.
