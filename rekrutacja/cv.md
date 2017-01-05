@@ -45,9 +45,13 @@ Framework Spring (dobra znajomość; użyty w projektach ABC i EDS) i Hibernate 
 Bazy danych: MySQL (dobra znajomość; używana jako główna baza we wszystkich projektach), MongoDB (średnia znajomość; użyty w projekcie EDS do przechowywania logów i komentarzy użytkowników)
 ```
 
+Jeśli daną technologię użyłeś raz, w prostym kontekście, jeśli nie potrafisz powiedzieć nic na jej temat podczas rozmowy o pracę, to najlepiej jej w ogóle nie wymieniać w CV. Przykładem może być napisanie prostego skryptu Basha, które polegało na zmodyfikowaniu znalezionego w Internecie rozwiązania - wtedy nie umieszczamy znajomości pisania skryptów w Bashu.
+
+Trzeba ostrożnie dobierać słownictwo przy określeniu poziomu znajomości technologii. Dla przykładu określenie się jako 'ekspert' (lub podobnie) może zadziałać na rekrutera jak czerwona płachta na byka. Będzie starał się wytknąć ci braki wiedzy i możesz spodziewać się bardzo gruntownego przepytania z tej technologii. Z tego powodu warto zachować odrobinę rezerwy, i określić poziom delikatniej, np. 'bardzo dobra znajomość'.
+
 ### Portfolio
 
-W tej sekcji możemy umieścić krótkie opisy naszych projektów. W przypadku gdy braliśmy udział we wspólnym projekcie z innymi ludźmi trzeba wyraźnie zaznaczyć na czym polegała nasza rola, jaką część funkcjonalności stworzyliśmy. Wspominamy o użytych technologiach. Dodajemy odnośniki do  wersji produkcyjnej/live, lub/i repozytorium, jeśli istnieją. Jeśli chcemy umieścić tutaj projekt nad którym pracowaliśmy w poprzedniej firmie upewnij się, że możesz to zrobić (np. nie ujawnisz informacji nt. jakiegoś tajnego projetu). Nie zapomnij o umieszczeniu tutaj swojego projektu opisanego w części 'Projekt'. Jeśli nie chcesz z jakiegoś powodu udostępniać całego kodu źródłowego, możesz rozważyć dołączenie jego fragmentów, na przykład za pomocą [https://gist.github.com](https://gist.github.com/) lub innego serwisu typu [Pastebin](http://pastebin.com/). Przykład:
+W tej sekcji możemy umieścić krótkie opisy naszych projektów. W przypadku gdy braliśmy udział we wspólnym projekcie z innymi ludźmi trzeba wyraźnie zaznaczyć na czym polegała nasza rola, jaką część funkcjonalności stworzyliśmy. Wspominamy o użytych technologiach. Dodajemy odnośniki do  wersji produkcyjnej/live, lub/i repozytorium, jeśli istnieją. Jeśli chcemy umieścić tutaj projekt nad którym pracowaliśmy w poprzedniej firmie upewnij się, że możesz to zrobić (np. nie ujawnisz informacji nt. jakiegoś tajnego projektu). Nie zapomnij o umieszczeniu tutaj swojego projektu opisanego w części 'Projekt'. Jeśli nie chcesz z jakiegoś powodu udostępniać całego kodu źródłowego, możesz rozważyć dołączenie jego fragmentów, na przykład za pomocą [https://gist.github.com](https://gist.github.com/) lub innego serwisu typu [Pastebin](http://pastebin.com/). Przykład:
 
 ```
 Projekt ABC - platforma e-learningowa, która umożliwiała dzielenie się materiałami edukacyjnymi, możliwością uploadu materiałów video/audio. Możliwość śledzenia postępu nauki; grywalizacja. Stack: MySQL, Ruby on Rails 3.2, AngularJS 1.10, MomentJS. Produkcja: www.abc.com
@@ -102,3 +106,5 @@ Nie umieszczaj listy swoich zalet, zwłaszcza typu 'Umiejętność pracy w grupi
 Sprawdź także poprawność nazw technologii/języków programowania, ponieważ stosunkowo łatwo może wkraść się tam błąd, chociażby z winy autokorekty edytora.
 
 Nie pisz 'dobra znajomość pakietu Office', chyba że naprawdę go znasz bardzo dobrze.
+
+Pisz wyłącznie prawdę, zarówno w przypadku określenia poziomu umiejętności z danych technologii, języków obcych jak i w przypadku innych informacji zawartych w CV. Przekoloryzowane albo całkiem rozmijające się z prawdą stwierdzenie szybko wyjdzie na jaw podczas rozmowy w biurze, a może nawet podczas wstępnej rozmowy telefonicznej.
