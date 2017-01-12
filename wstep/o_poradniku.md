@@ -20,7 +20,7 @@ Chciałbym serdecznie podziękować wszystkim tym, którzy poprzez swój komenta
 
 Szczególe podziękowania dla:
 
-- Krzysztof Pawliczuk ([safecode.pl](safecode.pl)) - za przedstawienie bardzo dużej ilości uwag metrytorycznych, stylistycznych, ortograficznych
+- Krzysztof Pawliczuk ([safecode.pl](https://safecode.pl)) - za przedstawienie bardzo dużej ilości uwag metrytorycznych, stylistycznych, ortograficznych
 
 ## Kontakt
 
