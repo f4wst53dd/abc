@@ -6,7 +6,7 @@ Nie odgrzewaj bigosu, wędzonej ryby czy innych mocno aromatycznych potraw w kuc
 
 Nie siorb, ciamkaj, bekaj itp. Krótko mówiąc - nie wydawaj niepotrzebnych dźwięków przy jedzeniu. Jedna prosta rzecz, jaką jest trzymanie zamkniętych ust podczas przeżuwania pokarmu może uchronić pobliskie osoby od nieprzyjemności, zwł. jeśli one w tym czasie nie jedzą.
 
-Po defekacji użyj szczotki do muszli klozetowej, żeby nie zostawić po sobie resztek kału. W celu zamaskowania nieprzyjemnych zapachów użyj odświeżacza powietrza, jeśli jest dostępny w łazience.
+Po defekacji użyj szczotki do muszli klozetowej, żeby nie zostawić po sobie resztek kału. W celu zamaskowania nieprzyjemnych zapachów użyj odświeżacza powietrza, jeśli jest dostępny w łazience. W przypadku mężczyzn jeśli nie trafiasz moczem do pisuaru to korzystaj z sedesu. Jeśli nie trafiasz stojąco do sedesu, i zostawiasz mocz na obrysie muszli klozetowej, to może pomóc pozycja siedząca.
 
 Utrzymuj higienę osobistą. Myj się codziennie, lub nieco rzadziej (jeśli nie jest gorąco, nie dojeżdżasz rowerem, nie przychodzisz pieszo do pracy, nie uprawiasz sportu po pracy itp.). Dezodorant nie jest zastępstwem mydła. Obcinaj paznokcie i nie strasz bliźnich dziwnym, wielodniowym zarostem. Myj regularnie zęby, albo jak nie masz zrobić tego w pracy, to przynajmniej żuj gumę. Używaj nici dentystycznych. Zmieniaj regularnie bieliznę, skarpetki, T-shirty. Jeśli chcesz dać odpocząć nogom w biurze przebieraj zewnętrzne obuwie na klapki lub podobne.
 

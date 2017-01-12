@@ -53,4 +53,6 @@ Część zagadnień została poruszona także w sekcji [studia](przed-praca/stud
 9. Patterny
   - [zasada SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
+10. SEO
+
 Czy trzeba mieć certyfikaty programistyczne (z kursów, szkoleń itp.)? Generalnie nie. Mogą być one dodatkowym atutem, miłym ozdobnikiem CV, ale nie należy im poświęcać dużej uwagi. Liczą się przede wszystkim umiejętności i wiedza którą posiadasz w momencie rekrutacji. Jeśli np. podczas studiów masz okazję zrobić jakiś certyfikat, za darmo lub okazjonalną cenę to warto co najmniej rozważyć wzięcie udziału w takim szkoleniu. Jednak nie wolno certyfikatów traktować jako kluczy, które magicznie otworzą nam drzwi dowolnego pracodawcy.

@@ -14,6 +14,14 @@ Opis  przestawionych tutaj może różnić się od haseł encyklopedystycznych. 
 
 Ten poradnik jest przeznaczony przede wszystkim dla osób chcących podjąć pierwszą pracę w zawodzie programisty - web developera. Osoby pracujące od niedawna w tym zawodzie, czy też ci, którzy dopiero są na etapie edukacji w szkole średniej/na studiach również mogą wynieść z niego wiele pożytecznych (mam nadzieję) informacji.
 
+## Podziękowania
+
+Chciałbym serdecznie podziękować wszystkim tym, którzy poprzez swój komentarz odnośnie treści czy formy poradnika przyczynili się do jego poprawienia i ukształtowania.
+
+Szczególe podziękowania dla:
+
+- Krzysztof Pawliczuk ([safecode.pl](safecode.pl)) - za przedstawienie bardzo dużej ilości uwag metrytorycznych, stylistycznych, ortograficznych
+
 ## Kontakt
 
 Pytania? Uwagi? Sugestie? Proszę o utworzenie [nowego issue na githubie](https://github.com/f4wst53dd/abc/issues/new) lub kontakt poprzez pocztę elektroniczną: bsisbh5tg@mail.com
