@@ -3,7 +3,7 @@
 ## Technikalia
 
 - format: .pdf, .doc lub .txt. Oczywiście można napisać je w formacie tekstowym, a później wyeksportować do formatu PDF.
-- zdjęcie: zwykle nie jest potrzebne. Nie aplikujesz na stanowisko, gdzie prezencja ma znaczenie.
+- zdjęcie: zwykle nie jest potrzebne. Nie aplikujesz na stanowisko gdzie prezencja ma znaczenie.
 - długość - CV powinno zmieścić sie na 1 lub 2 stronach formatu A4, przy użyciu czcionki wielkości 12p lub większej. Jeśli rekrutujesz się na staż/praktykę/1 pracę, to niemal na pewno będziesz mógł zmieścić się na pojedynczej stronie.
 - język - w zależności od firmy do której składamy CV i języka oferty pracy/stażu. Jeśli oferta jest w języku angielskim, piszemy po angielsku (możemy posłużyć się przykładami/szablonami z internetu, żeby użyć właściwych słów i zwrotów). W pozostałych przypadkach używamy języka polskiego.
 
@@ -19,7 +19,7 @@ tel.: 999999999
 e-mail: example@example.com
 ```
 
-Nie podajemy innych danych, takich jak data urodzenia. Opcjonalnie można umieścić miejscowość w której obecnie zamieszkujemy.
+Jeśli składamy CV po angielsku, do firmy amerykańskiej lub kanadyjskiej zamiast "CV" w tytule lepiej użyć słowo 'resume'. W tych krajach właśnie tak najczęściej określa się ten dokument. Nie podajemy innych danych, takich jak PESEL, data urodzenia czy stan cywilny. Opcjonalnie można umieścić miejscowość w której obecnie zamieszkujemy, bez dokładnego adresu.
 
 ### Doświadcznie zawodowe
 
@@ -45,9 +45,13 @@ Framework Spring (dobra znajomość; użyty w projektach ABC i EDS) i Hibernate 
 Bazy danych: MySQL (dobra znajomość; używana jako główna baza we wszystkich projektach), MongoDB (średnia znajomość; użyty w projekcie EDS do przechowywania logów i komentarzy użytkowników)
 ```
 
+Jeśli daną technologię użyłeś raz, w prostym kontekście, jeśli nie potrafisz powiedzieć nic na jej temat podczas rozmowy o pracę, to najlepiej jej w ogóle nie wymieniać w CV. Przykładem może być napisanie prostego skryptu Basha, które polegało na zmodyfikowaniu znalezionego w Internecie rozwiązania - wtedy nie umieszczamy znajomości pisania skryptów w Bashu.
+
+Trzeba ostrożnie dobierać słownictwo przy określeniu poziomu znajomości technologii. Dla przykładu określenie się jako 'ekspert' (lub podobnie) może zadziałać na rekrutera jak czerwona płachta na byka. Będzie starał się wytknąć ci braki wiedzy i możesz spodziewać się bardzo gruntownego przepytania z tej technologii. Z tego powodu warto zachować odrobinę rezerwy, i określić poziom delikatniej, np. 'bardzo dobra znajomość'.
+
 ### Portfolio
 
-W tej sekcji możemy umieścić krótkie opisy naszych projektów. W przypadku gdy braliśmy udział we wspólnym projekcie z innymi ludźmi trzeba wyraźnie zaznaczyć na czym polegała nasza rola, jaką część funkcjonalności stworzyliśmy. Wspominamy o użytych technologiach. Dodajemy odnośniki do  wersji produkcyjnej/live, lub/i repozytorium, jeśli istnieją. Jeśli chcemy umieścić tutaj projekt nad którym pracowaliśmy w poprzedniej firmie upewnij się, że możesz to zrobić (np. nie ujawnisz informacji nt. jakiegoś tajnego projetu). Nie zapomnij o umieszczeniu tutaj swojego projektu opisanego w części 'Projekt'. Przykład:
+W tej sekcji możemy umieścić krótkie opisy naszych projektów. W przypadku gdy braliśmy udział we wspólnym projekcie z innymi ludźmi trzeba wyraźnie zaznaczyć na czym polegała nasza rola, jaką część funkcjonalności stworzyliśmy. Wspominamy o użytych technologiach. Dodajemy odnośniki do  wersji produkcyjnej/live, lub/i repozytorium, jeśli istnieją. Jeśli chcemy umieścić tutaj projekt nad którym pracowaliśmy w poprzedniej firmie upewnij się, że możesz to zrobić (np. nie ujawnisz informacji nt. jakiegoś tajnego projektu). Nie zapomnij o umieszczeniu tutaj swojego projektu opisanego w części 'Projekt'. Jeśli nie chcesz z jakiegoś powodu udostępniać całego kodu źródłowego, możesz rozważyć dołączenie jego fragmentów, na przykład za pomocą [https://gist.github.com](https://gist.github.com/) lub innego serwisu typu [Pastebin](http://pastebin.com/). Przykład:
 
 ```
 Projekt ABC - platforma e-learningowa, która umożliwiała dzielenie się materiałami edukacyjnymi, możliwością uploadu materiałów video/audio. Możliwość śledzenia postępu nauki; grywalizacja. Stack: MySQL, Ruby on Rails 3.2, AngularJS 1.10, MomentJS. Produkcja: www.abc.com
@@ -93,4 +97,14 @@ Imię Nazwisko
 
 CV nie musi być szczególnie oryginalne, dopieszczone pod względem wizualnym. Korzystanie z jakiegoś wymyślnego szablonu nie jest konieczne. Należy skupić się przede wszystkim na zwięzłości, przejrzystości; na przekazaniu maksymalnej ilości informacji (takich, które zainteresują rekrutera).
 
+Prawdopodobnie nie ma sensu umieszczanie sekcji 'Hobby' czy 'Zainteresowania', chyba że mamy zamiar wymienić w niej pasje związane z technologiami komputerowymi, lub inne w jakikolwiek sposób pokrewne ze stanowiskiem na które się rekrutujesz.
+
+Przed wysłaniem CV koniecznie przeczytaj uważnie całość, najlepiej kilkukrotnie. Upewnij się czy nie ma w nim informacji zbędnych, nadmiarowych. Przykładowo nie piszemy czym jest dana technologia, np. zamiast 'B. dobra znajmość darmowej, relacyjnej bazy danych PostgreSQL' napisz 'B. dobra znajmość PostgreSQL'. Zwróć uwagę na błędy gramatyczne. Najprościej można przekonać się przez skopiowanie tekstu do edytora z wbudowanym słownikiem (Microsoft Word, LibreOffice Writer) - potencjalnie błędne słowa będą podkreślone na czerwono. Ta metoda nie wyłapie wszystkich błędów ortograficznych, zatem trzeba przeanalizować CV pod tym kątem również samemu. Dodatkowo możemy poprosić drugą osobę (znajomego, kogoś z rodziny) o dodatkowe sprawdzenie.
+
+Nie umieszczaj listy swoich zalet, zwłaszcza typu 'Umiejętność pracy w grupie', 'Wysokie umiejętności komunikacji z ludźmi', ponieważ są one bardzo oklepane, i nie niosą ze sobą żadnej informacji dla osoby rekrutującej. Natomiast zwroty 'Szybko się uczę', 'Chętnie poznam nowe technologie' itp. z kolei mogą postawić nas w negatywnym świetle, jako osoba, która jest zdesperowana, która podejmie każdą pracę, nawet nie pokrywającą się z posiadanymi umiejętnościami.
+
+Sprawdź także poprawność nazw technologii/języków programowania, ponieważ stosunkowo łatwo może wkraść się tam błąd, chociażby z winy autokorekty edytora.
+
 Nie pisz 'dobra znajomość pakietu Office', chyba że naprawdę go znasz bardzo dobrze.
+
+Pisz wyłącznie prawdę, zarówno w przypadku określenia poziomu umiejętności z danych technologii, języków obcych jak i w przypadku innych informacji zawartych w CV. Przekoloryzowane albo całkiem rozmijające się z prawdą stwierdzenie szybko wyjdzie na jaw podczas rozmowy w biurze, a może nawet podczas wstępnej rozmowy telefonicznej.
