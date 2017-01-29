@@ -1,12 +1,12 @@
 # Słowniczek
 
-- __senior (senior developer)__ - jest to programista, który wyróżnia się umiejętnościami, stażem pracy, doświadczeniem od reszty developerów; zob. developer, junior developer. Jest on odpowiedzialny za pieczę nad projektem (wieloma projektami). Zwykle od niego zależą najważniejsze decyzje, typu modyfikacja architektury aplikacji, wprowadzenie do niej kolejnej technologii/framweorka. Często mentor, do którego szeregowi programiści, juniorzy a nawet inni seniorzy zwracają się z problemem, albo o poradę. Osoba, która również może wykonywać
+- __senior (senior developer)__ - programista, który wyróżnia się umiejętnościami, stażem pracy, doświadczeniem od reszty developerów; zob. developer, junior developer. Jest on odpowiedzialny za pieczę nad projektem (wieloma projektami). Zwykle od niego zależą najważniejsze decyzje, typu modyfikacja architektury aplikacji, wprowadzenie do niej kolejnej technologii/framweorka. Często mentor, do którego szeregowi programiści, juniorzy a nawet inni seniorzy zwracają się z problemem, albo o poradę. Osoba, która również może wykonywać
 
 - __junior__ - programista, który ma zerowe lub b. małe doświadczenie. Może nie znać niektórych prostych technik, pojęć. Jakość pisanego przez niego kodu zwykle jest gorsza, a zadania wykonuje wolniej niż zwykły developer. Zwykle nie jest samodzielny, tzn. musi korzystać z pomocy innych developerów. Prawdopodobnie w ciągu kilku miesięcy nabierze doświadczenia, i płynnie może być nazywany developerem.
 
 - __developer__ - programista, który ma więcej doświadczenia niż junior, ale mniej niż senior. Umowna grupa, w której znajduje się najwięcej developerów. Ma przynajmniej kilka miesięcy doświadczenia. Jest samodzielny, tzn. może samemu stworzyć dany ficzer, ew. raz na jakiś czas zasięgając rady seniora.
 
-- __produkcja (serwer produkcyjny)__ - jest to środowisko, przeznaczone dla odbiorców końcowych (klientów, użytkowników). Zob. dev, stage, UAT
+- __produkcja (serwer produkcyjny)__ - środowisko, przeznaczone dla odbiorców końcowych (klientów, użytkowników). Zob. dev, stage, UAT
 
 - __stage (staging) server, lub UAT (User Acceptancy Test, spolszcz. łat)__ - środowisko (serwer), wykorzystywany przez wyznaczone osoby (tester, klient, sam developer) od testowania zmian. Jest on bardzo zbliżony do produkcji, ale zamiast prawdziwych użytkowników korzystają z niego wspomniani wcześniej ludzie. Na stage możemy upewnienie się czy dane zmiany są poprawne, i działają w środowisku produkcyjnym. Czasem bowiem zmiany mogą działać bezproblemowo w środowisku developerskim (dev), a na produkcyjnym już nie.
 
@@ -16,19 +16,19 @@
 
 - __product manager, PM__ - osoba zajmująca się projektem od strony zarządzania nim. Komunikuje się z zespołem programistów, kładąc nacisk tworzenie najpilniejszych/najpotrzebniejszych ficzerów. Jest pośrednikiem między klientem a programistami, dzięki czemu developerzy mogą zajmować się programowaniem. Zajmuje się ustaleniem tego, co będzie robione w najbliższej przyszłości, zgodnie z potrzebami klienta a jednocześnie uwzględniając w pewnym stopniu preferencje developerów (np. może wynegocjować odsunięcie taska, którego wykonanie byłoby bardzo trudne i poza kompetencjami developera).
 
-- __HR (kadry, ejdż-ar, ang. Human Resources)__ - jest to sekcja w firmie (i osoby w niej pracujące), które zajmują się wyszukiwaniem i pozyskiwaniem nowych pracowników dla firmy. Przeglądają nadesłane CV, wybierają odpowiednie osoby. Zwykle przeprowadzają część nietechniczną rozmowy rekrutacyjnej.
+- __HR (kadry, ejdż-ar, ang. Human Resources)__ - sekcja w firmie (i osoby w niej pracujące), które zajmują się wyszukiwaniem i pozyskiwaniem nowych pracowników dla firmy. Przeglądają nadesłane CV, wybierają odpowiednie osoby. Zwykle przeprowadzają część nietechniczną rozmowy rekrutacyjnej.
 
 - __tracker, bugtracker, bug tracking system__ - aplikacja (może być webowa), która służy do zarządzania taskami (błędami, ficzerami itp.). Zwykle klient chcący mieć wykonane jakieś zadanie umieszcza go w tym systemie. Developer oznacza ten task jako rozpoczęty, zakończony lub jako wrzucony na staging. Klient wtedy widzi postęp prac, i może np. skomentować task, jeśli jest już on na stage, a nie spełnia do końca jego oczekiwań.
 
-- __task, zadanie__ - jest to zadanie, które jest pojedynczą jednostką 'czegoś do zrobienia' dla developera. Czasami zawiera kilka(naście) podtasków - podzadań. Rodzajem taska może być ficzer, bug, chore, research itp.
+- __task, zadanie__ - zadanie, które jest pojedynczą jednostką 'czegoś do zrobienia' dla developera. Czasami zawiera kilka(naście) podtasków - podzadań. Rodzajem taska może być ficzer, bug, chore, research itp.
 
-- __ficzer (ang. feature)__ - jest to zadanie, które polega na stworzeniu nowej funkcjonalności, lub modyfikacji/usunięcia istniejącej. Przykład: trzeba wykonać system logowania aktywności użytkowników.
+- __ficzer (ang. feature)__ - zadanie, które polega na stworzeniu nowej funkcjonalności, lub modyfikacji/usunięcia istniejącej. Przykład: trzeba wykonać system logowania aktywności użytkowników.
 
 - __bug (spolszcz. bag)__ - błąd w działaniu aplikacji, objawiający się uzyskaniem niepożądanym spadkiem wydajności, zwracaniem niepoprawnych wyników, czy nawet zawieszeniem się (crashem) całej aplikacji.
 
-- __chore (wym. 'czor')__ - jest to proste zadanie, które nie jest ficzerem ani bugiem. Przykładem chora może być prośba klienta o wyciągnięcie z bazy wszystkich użytkowników, którzy są użytkownikami premium, i zapisanie ich danych w pliku Excela.
+- __chore (wym. 'czor')__ - proste zadanie, które nie jest ficzerem ani bugiem. Przykładem chora może być prośba klienta o wyciągnięcie z bazy wszystkich użytkowników, którzy są użytkownikami premium, i zapisanie ich danych w pliku Excela.
 
-- __research__ - jest to zadanie, które polega na wyszukaniu najlepiej nadających się narzędzi/biblioteki do implementacji danego zadania, albo stwierdzenie, czy dane zadanie w ogóle jest możliwe do wykonania. Przykład: klient prosi o research jakiego systemu powiadomień użyć na urządzeniach mobilnych.
+- __research__ - zadanie, które polega na wyszukaniu najlepiej nadających się narzędzi/biblioteki do implementacji danego zadania, albo stwierdzenie, czy dane zadanie w ogóle jest możliwe do wykonania. Przykład: klient prosi o research jakiego systemu powiadomień użyć na urządzeniach mobilnych.
 
 - __crash__ - zatrzymanie się aplikacji, spowodowane błędem
 
@@ -44,9 +44,9 @@
 
 - __hamburger__ - menu strony www wykorzystywane głównie w wersji na urządzenia mobilne. W odróżnieniu od zwykłej, webowej wersji strony, mobilna ma ograniczone miejsce do wyświetlenia, zatem menu strony jest schowane pod ikonką hamburgera. Ikoną hamburgera są trzy krótkie poziome kreski jedna nad drugą, stąd nazwa.
 
-- __sprite__ - jest to pojedynczy plik graficzny, który składa się z 'posklejanych' wielu mniejszych obrazków. Używa się go po to, żeby zminimalizować ilość requestów (zob.) do serwera - mając 20 małych obrazków złączonych w 1 spricie nie wykonujemy 20 osobnych requestów do serwera (co wiąże się z dodatkowym narzutem czasowym dla użytkownika, jak i narzutem obsługi większej ilości żądań dla serwera), ale przesyłamy je do przeglądarki jako odpowiedź na pojedynczy request. W kodzie CSS podajemy możemy dokładne współrzędne na podstawie których wyciągamy tylko taki fragment sprita, który jest akurat potrzeby do wyświetlenia (np. obrazek przycisku). Użycie sprite jest sensowne, gdy mamy dużą ilość bardzo małych obrazków. Standardowym przykładem jest sprite z przyciskami, elementami obramowania.
+- __sprite__ - pojedynczy plik graficzny, który składa się z 'posklejanych' wielu mniejszych obrazków. Używa się go po to, żeby zminimalizować ilość requestów (zob.) do serwera - mając 20 małych obrazków złączonych w 1 spricie nie wykonujemy 20 osobnych requestów do serwera (co wiąże się z dodatkowym narzutem czasowym dla użytkownika, jak i narzutem obsługi większej ilości żądań dla serwera), ale przesyłamy je do przeglądarki jako odpowiedź na pojedynczy request. W kodzie CSS podajemy możemy dokładne współrzędne na podstawie których wyciągamy tylko taki fragment sprita, który jest akurat potrzeby do wyświetlenia (np. obrazek przycisku). Użycie sprite jest sensowne, gdy mamy dużą ilość bardzo małych obrazków. Standardowym przykładem jest sprite z przyciskami, elementami obramowania.
 
-- __maintanance, utrzymywanie__ - jest to etap w cyklu życia aplikacji, w którym nie dodaje się aktywnie (regularnie, często) nowych ficzerów, jedynie dogląda się go. Monitorujemy czy aplikacja działa, poprawiamy okazjonalnie bugi, ewentualnie raz na jakiś czas wykonujemy drobne zadania dodające coś do funkcjonalności. Tak można określić działającą aplikację (korzystają z niej użytkownicy), która jest wykonana, i to na tyle dobrze, że zwykle działa poprawnie, a klient nie ma funduszy/potrzeby żeby ją dalej rozwijać.
+- __maintanance, utrzymywanie__ - etap w cyklu życia aplikacji, w którym nie dodaje się aktywnie (regularnie, często) nowych ficzerów, jedynie dogląda się go. Monitorujemy czy aplikacja działa, poprawiamy okazjonalnie bugi, ewentualnie raz na jakiś czas wykonujemy drobne zadania dodające coś do funkcjonalności. Tak można określić działającą aplikację (korzystają z niej użytkownicy), która jest wykonana, i to na tyle dobrze, że zwykle działa poprawnie, a klient nie ma funduszy/potrzeby żeby ją dalej rozwijać.
 
 - __minified__ - zmniejszony rozmiaru pliku. Zwykle wykonuje się tą operację dla plików CSS i JS. W obu przypadkach usuwany niepotrzebne znaki białe (spacje, tabulatory, znaki nowej linii. JavaScript dodatkowo nazwy zmiennych, funkcji itp. zamieniane są na jak najkrótsze. Dzięki temu skrypt wciąż będzie działał dokładnie tak jak w pierwotnej formie, ale będzie zajmował mniej miejsca, zatem szybciej zostanie przesłany przez sieć.
 
@@ -54,13 +54,13 @@
 
 - __linter__ - program, który analizuje kod aplikacji, i zgłasza potencjalne błędy składniowe, stylistyczne itp. Przykład: ESLint, popularny linter dla języka JavaScript.
 
-- __request (żądanie)__ - jest to odpytywanie zasobów, często dostając odpowiedź, która zawiera informację nt. pomyślności wykonania tego requestu. Przykładowo, wchodząc na jakąś stronę przeglądarka wykonywuje zwykle wiele requestów. Pobranie zawartości strony internetowej wiąże się z wykonywaniem osobnych requestów do pobrania kodu HTML, plików stylów CSS, plików JavaScriptu, obrazków). W celu zmniejszenia ilości requestów dla środowiska produkcyjnego, wykonuje się minifikację i konkatenację plików JS i CSS (nie HTML!) oraz sprite'y obrazków.
+- __request (żądanie)__ - odpytywanie zasobów, często dostając odpowiedź, która zawiera informację nt. pomyślności wykonania tego requestu. Przykładowo, wchodząc na jakąś stronę przeglądarka wykonywuje zwykle wiele requestów. Pobranie zawartości strony internetowej wiąże się z wykonywaniem osobnych requestów do pobrania kodu HTML, plików stylów CSS, plików JavaScriptu, obrazków). W celu zmniejszenia ilości requestów dla środowiska produkcyjnego, wykonuje się minifikację i konkatenację plików JS i CSS (nie HTML!) oraz sprite'y obrazków.
 
-- __endpoint__ - jest to adres URL, na który możemy wykonywać requesty. Np. dana strona może mieć kilka endpointów, 'http://example.com/songs' zwracający listę piosenek, 'http://example.com/books/xyz' - zwracający listę książek autora 'xyz'
+- __endpoint__ - adres URL, na który możemy wykonywać requesty. Np. dana strona może mieć kilka endpointów, 'http://example.com/songs' zwracający listę piosenek, 'http://example.com/books/xyz' - zwracający listę książek autora 'xyz'
 
-- __API__ - jest to ściśle określony zestaw reguł według których aplikacje komunikują się ze sobą. W przypadku web developmentu strony często oferują API, za pomocą którego możemy pobrać interesujące nas dane (np. listę ulubionych piosenek z youtube.com) lub wykonać jakąś operację (dodać piosenkę do playlisty). Używając API nie wyświetlamy elementów interfejsu (stylów, kodu HTML, plików JS), tylko wysyłamy/otrzymujemy ustrukturyzowane dane, np. w formacie JSON czy XML. W innym znaczeniu: API jest listą wszystkich możliwych elementów interfejsu danej biblioteki, frameworka. Przykładem jest witryna https://api.jquery.com
+- __API__ - ściśle określony zestaw reguł według których aplikacje komunikują się ze sobą. W przypadku web developmentu strony często oferują API, za pomocą którego możemy pobrać interesujące nas dane (np. listę ulubionych piosenek z youtube.com) lub wykonać jakąś operację (dodać piosenkę do playlisty). Używając API nie wyświetlamy elementów interfejsu (stylów, kodu HTML, plików JS), tylko wysyłamy/otrzymujemy ustrukturyzowane dane, np. w formacie JSON czy XML. W innym znaczeniu: API jest listą wszystkich możliwych elementów interfejsu danej biblioteki, frameworka. Przykładem jest witryna https://api.jquery.com
 
-- __wyjątek (ang. exception)__- jest to mechanizm umożliwiający zgłoszenie wyjątkowego przypadku, np. błędu. Wyjątek może wywołać programista w kodzie (żeby potem go w innej części kodu obsłużyć), lub może być wywołany z biblioteki/języka programowania. Przykład: tworzymy duży plik ze statystkami. Jeśli zabraknie nam miejsca na dysku twardym do utworzenia go podnosimy wyjątek.
+- __wyjątek (ang. exception)__- mechanizm umożliwiający zgłoszenie wyjątkowego przypadku, np. błędu. Wyjątek może wywołać programista w kodzie (żeby potem go w innej części kodu obsłużyć), lub może być wywołany z biblioteki/języka programowania. Przykład: tworzymy duży plik ze statystkami. Jeśli zabraknie nam miejsca na dysku twardym do utworzenia go podnosimy wyjątek.
 
 - __500 (Internal Server Error, pięćsetka)__ - kod odpowiedzi requestu HTTP HTTP oznaczający błąd wykonywania kodu po stronie serwera. Może pojawić się, gdy np. programista popełni błąd składniowy w kodzie
 - __404 (not found)__ - kod odpowiedzi requestu HTTP
@@ -70,7 +70,7 @@
 
 - __code review__ - ocena kodu. Proces polegający na przeglądnięciu zmian w kodzie wykonanych przez innego programistę. Wykonywany przez 1 lub więcej ludzi. W przypadku znalezienia błędu, możliwości lepszego zapisu kodu, znalezienia optymalizacji przeglądający kod może umieścić komentarz w kodzie (jeśli review przeprowadzony jest na pull requeście), lub rozmawiając z autorem zmian.
 
-- __pull request, PR__ - jest to przygotowany przez programistę zbiór zmian w kodzie, który dotyczy zwykle jednej funkcjonalności (typu implementacja logowania przez facebooka, poprawienie błędu czy usunięcie nieużywanych plików). Zawiera jeden lub wiele commitów. PR-a tworzymy nie w bezpośrednio w systemie kontroli wersji (lokalnie), ale na stronie hostingu kodu (np. github, bitbucket, gitlab). Pozwala na łatwe wyszukiwanie zmian w historii - wystarczy przejrzeć listę starych pull requestów.
+- __pull request, PR__ - przygotowany przez programistę zbiór zmian w kodzie, który dotyczy zwykle jednej funkcjonalności (typu implementacja logowania przez facebooka, poprawienie błędu czy usunięcie nieużywanych plików). Zawiera jeden lub wiele commitów. PR-a tworzymy nie w bezpośrednio w systemie kontroli wersji (lokalnie), ale na stronie hostingu kodu (np. github, bitbucket, gitlab). Pozwala na łatwe wyszukiwanie zmian w historii - wystarczy przejrzeć listę starych pull requestów.
 
 - __commit__ - pojedyncza zmiana w kodzie, zapisana w systemie kontroli wersji. Może ona dotyczyć jednego lub wielu plików. Cała historia zmian w projekcie to zbiór commitów.
 
@@ -96,11 +96,11 @@
 
 - __feedback__ - informacja zwrotna. Przykładem feedbacku może być implementacja danej funkcjonalności, i wystawienie jej na serwerze stagingowym, po to, żeby klient mógł sprawdzić, czy jest wszystko w porządku. Klient, jeśli implementacja nie jest dokładnie zgodna z tym co oczekuje powie/napisze ci np. 'trzeba poprawić kolor belki na jaśniejszy; walidacja pola X ma być wykonywana tylko jeśli użytkownik zaznaczył checkboxa A. Poza tym wszystko jest OK.' Ten komentarz jest feedbackiem dla ciebie.
 
-- __edge case__ - skrajny przypadek. Jest to rzadki, bardzo odbiegający od zwykłych okoliczności przypadek, który np. powoduje nieprawidłowe działania aplikacji. Przykładem edge casa może być to, że użytkownik aplikacji posiada 110 obiektów edycji dokumentu, a interfejs naszej aplikacji potrafi wyświetlić ich tylko 100.
+- __edge case__ (przypadek skrajny) - rzadki, bardzo odbiegający od zwykłych okoliczności przypadek, który np. powoduje nieprawidłowe działania aplikacji. Przykładem edge casa może być to, że użytkownik aplikacji posiada 110 obiektów edycji dokumentu, a interfejs naszej aplikacji potrafi wyświetlić ich tylko 100.
 
-- __stack/stos (technologii)__ - jest to lista głównych technologii użytych w danej aplikacji. Dotyczy języków programowania, frameworków, bibliotek itp.
+- __stack/stos (technologii)__ - lista głównych technologii użytych w danej aplikacji. Dotyczy języków programowania, frameworków, bibliotek itp.
 
-- __vanilla__ (np. vanilla JS) - jest to 'czysta' wersja kodu, napisana w danym języku, bez użycia dodatkowych bibliotek.
+- __vanilla__ (np. vanilla JS) - 'czysta' wersja kodu, napisana w danym języku, bez użycia dodatkowych bibliotek.
 
 - __protokół__ - zbiór reguł dzięki którym dwa i więcej urządzeń/aplikacji/serwerów itp. może się komunikować, być w stanie wysłać informacje i zrozumieć otrzymane.
 
@@ -110,4 +110,6 @@
 
 - __race condition__ - w przypadku kodu wykonywanego równolegle sytuacja, kiedy dwa wątki pracują na wspólnym zestawie danych, i w konsekwencji powodująca niespodziewane, losowe wyniki.
 
-- __callback (wywołanie zwrotne)__ - jest to mechanizm pozwalający na wykonanie danego kodu w nieokreślonej przeszłości, po zakończeniu działania innego kodu. Np. chcemy wykonać request do zewnętrznego serwisu, a po otrzymaniu odpowiedzi z tego serwera (musimy uzyskać tą odpowiedź) uaktualnić rekord użytkownika w bazie danych. Request może potrwać długo, ponieważ problemem może być wolne łącze internetowe, czy wolna odpowiedź zewnętrznego serwisu (lub jej brak). Żeby nie zatrzymywać przebiegu kodu, możemy dodać callback do akcji wysyłania requesta, który zawierać będzie kod aktualizacji rekordu bazy.
+- __callback (wywołanie zwrotne)__ - mechanizm pozwalający na wykonanie danego kodu w nieokreślonej przeszłości, po zakończeniu działania innego kodu. Np. chcemy wykonać request do zewnętrznego serwisu, a po otrzymaniu odpowiedzi z tego serwera (musimy uzyskać tą odpowiedź) uaktualnić rekord użytkownika w bazie danych. Request może potrwać długo, ponieważ problemem może być wolne łącze internetowe, czy wolna odpowiedź zewnętrznego serwisu (lub jej brak). Żeby nie zatrzymywać przebiegu kodu, możemy dodać callback do akcji wysyłania requesta, który zawierać będzie kod aktualizacji rekordu bazy.
+
+- __webhook__ - metoda powiadamiania innej aplikacji webowej za pomocą callbacku. Webhook zwykle jest zdefiniowany żeby zareagować na dane zdarzenie. Przykładowo chąc uruchomić testy na serwerze Continous Integration natychmiast po zpushowaniu nowego kodu np. na Githubie, definiujemy webhooka w Githubie. Webhook ten wyśle request do servera CI, na co serwer ten zareaguje uruchomieniem testów.

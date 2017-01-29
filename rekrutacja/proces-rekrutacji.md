@@ -78,7 +78,7 @@ Mimo tego warto podejść do sprawy poszukiwań nieco ambitniej. Wiąże się z 
 - lokalizacja - odległość od miejsca zamieszkania; kwestia dogodnego dojazdu (samochód, tramwaj, autobus, rower itp.); czasami kwestia realokacji w przypadku firmy w innym mieście
 - charakter firmy, ilość pracowników - korporacja (vel 'korpo') z dużą ilością pracowników, mniejsze firmy developerskie gdzie pracuje kilka - kilkadziesiąt ludzi.
 - projekty - firma rozwija własne projekty, firma tworzy aplikacje dla zewnętrznych klientów (np. zagranicznych)
-- dodatki - perspektywy rozwoju, szkoleń, wyjazdów integracyjnych po pracy, programy uczęszczania na siłownię i podobne obiekty; wystrój i wyposażenie biura
+- dodatki - perspektywy rozwoju, szkoleń, wyjazdów integracyjnych po pracy, programy uczęszczania na siłownię i podobne obiekty; wystrój i wyposażenie biura; biuro typu otwartego (open space) lub zamkniętego (cubicle)
 
 Jedną z najważniejszych rzeczy podczas procesu rekrutacji jest zrównoleglenie wysyłania odpowiedzi na ofertę pracy (wysyłania CV). Zakładam, że chcesz jak najszybciej dostać pracę. W takim przypadku nie wysyłaj CV sekwencyjnie: wysłanie CV do danej firmy -> czekanie na odpowiedź-> rozmowa rekrutacyjna -> niepowodzenie -> wysłanie CV do kolejnej firmy -> czekanie na odpowiedź itp. Zamiast tego znajdź jak najwięcej interesujących cię ogłoszeń, i natychmiast wysyłaj do wszystkich firm CV. Dzięki czemu czas oczekiwania na odpowiedź będzie wspólny dla wszystkich ogłoszeń. Jest to bardzo pomocne, ponieważ czas odpowiedzi może wynieść nawet kilkanaście/kilkadziesiąt dni. Dodatkowo, między datą pierwotnej odpowiedzi firmy a potencjalną datą początku zatrudnienia, czy choćby datą rozmowy o pracę, może minąć wiele dni.
 

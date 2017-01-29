@@ -34,6 +34,8 @@ W przypadku braku studiów warto przyswoić sobie najważniejsze zagadnienia z t
 
 O ile początkujący web developer zapewne mógłby sobie poradzić na starcie swojej kariery zawodowej bez tej wiedzy, o tyle jest ona ważna w zrozumieniu wielu rzeczy, z jakimi przyjdzie się spotkać programiście. Co więcej, raczej nie można się uważać za dobrego developera bez opanowania tych elementarnych części wiedzy.
 
+Posiadanie szczegółowej wiedzy nie zawsze jest koniecznością, jednak należy zdawać sobie sprawę, że istnieje dane algorytmy, struktury danych, rozwiązania problemów istnieją. Oprócz tego trzeba umieć rozpoznawać który z tych elementów należy zastosować w danym przypadku. Wtedy programista zapozna się ze szczegółami potencjalnego rozwiązania, np. algorytmu.
+
 Część zagadnień została poruszona także w sekcji [umiejętności](/rekrutacja/umiejetnosci.md).
 
 - podstawowe algorytmy: rozwiązywanie równań liniowych i kwadratowych; algorytmy sortowania, rekurencyjne, algorytmy z nawrotami
