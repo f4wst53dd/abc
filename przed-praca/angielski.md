@@ -14,6 +14,8 @@ Kolejne umiejętności, tzn. słuchanie i mówienie, są przydatne zwłaszcza gd
 
 Również umiejętność mówienia nie musi być opanowana perfekcyjnie, żeby swobodnie się komunikować. Najistotniejszymi czynnikami są poprawna i wyraźna wymowa słów, klarowność wypowiedzi oraz w mniejszym stopniu stosowanie poprawnych form gramatycznych. Lepiej mówić nieco wolniej, ale bardziej poprawnie, niż szybciej ale niepoprawnie. Jedną z technik pozwalająca na lepsze mówienie, jest przygotowanie sobie planu wypowiedzi w głowie (przed wypowiedzią, lub w trakcie). Obmyślamy sobie słowa, które użyjemy w bieżącym/następnym zdaniu, a także zwroty, konstrukcje, którymi np. połączysz kilka wyrazów.
 
+Każda osoba pragnąca komunikować się w języku angielskim powinna umieć również literować, czyli znać wymowę poszczególnych liter. Będzie to przydatne, gdy będziemy musieli przeliterować własne imię czy nazwisko lub np. przy dyktowaniu komuś nazwy jakiejś biblioteki czy plugina.
+
 ## Skąd uczyć się języka angielskiego?
 
 Nie jest koniecznym, aby udać się do szkoły językowej, i płacić sporo pieniędzy, żeby ktoś cię nauczył języka obcego. Owszem, dobra szkoła językowa jest warta pieniędzy na nią przeznaczanych, ale uczęszczanie do niej ma największy sens gdy chcemy nabrać płynności w mówieniu czy podszlifować poprawność gramatyki pod okiem native speakerów. Oraz, gdy mamy mało czasu na jak najlepsze opanowanie umiejętności językowych w jak najkrótszym czasie. Natomiast w zwykłych warunkach nie musimy wydawać ani grosza, żeby nauczyć się czytać, pisać, mówić i słuchać języka angielskiego.
