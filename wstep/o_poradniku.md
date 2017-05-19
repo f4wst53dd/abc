@@ -10,6 +10,8 @@ Nie ma gwarancji, że tutejsze porady zadziałają dla każdego, w każdym przyp
 
 Opis  przestawionych tutaj może różnić się od haseł encyklopedystycznych. Definicje (np. w sekcji słowniczka) są podane tak, aby ułatwić ich zrozumienie (np. dla osoby nietechniczej), zamiast skupiać się na 100% zgodności z określeniami naukowymi.
 
+Kiedy zwracam się do czytelnika w formie męskiej to jest to równoważne ze zwracaniem się do obu płci.
+
 ## Dla kogo jest ten poradnik?
 
 Ten poradnik jest przeznaczony przede wszystkim dla osób chcących podjąć pierwszą pracę w zawodzie programisty - web developera. Osoby pracujące od niedawna w tym zawodzie, czy też ci, którzy dopiero są na etapie edukacji w szkole średniej/na studiach również mogą wynieść z niego wiele pożytecznych (mam nadzieję) informacji.

@@ -6,6 +6,8 @@ Po wtóre, programista napotykając się na jakieś zagadnienie/problem powinien
 
 Używaj spacji zamiast znaków tabulacji w kodzie. Przyjmuj 1 tabulator to 2 lub 4 spacje. W większości edytorów kodu/IDE można ustawić automatyczną konwersję tabulacji na ustaloną ilość znaków spacji.
 
+Preferuj uzupełnianie wyrazów w kodzie (np. nazw zmiennych, klas) w IDE, ewentualnie kopiuj je i wklej. Dzięki temu unikniesz prostych błędów - literówek. W przypadku podpowiadania słów trzeba być trochę bardziej ostrożnym, jeśli w kodzie mamy podobne do siebie wyrazy: łatwiej wtedy o pomyłkę.
+
 Zwykle warto pisać kod jak najbardziej bardziej jasno. Mając do wyboru dwie konstrukcje języka programowania, które dają ten sam wynik, wybieraj tą, która jest najprostsza do przeczytania, i do zrozumienia. Wyjątkiem mogą być sytuacje, gdzie bardziej zwięzła forma działa o wiele szybciej, i ten kod jest kluczową częścią aplikacji, która musi działać jak najszybciej. Wtedy należy wybrać trudniejszą postać kodu, i opatrzyć komentarzem.
 
 Używaj style guideów. Są to poradniki, zestawy dobrych praktyk, konwencji, dzięki którym pisany przez nas kod będzie łatwiejszy w czytaniu, modyfikacji, szybszy w działaniu itp. Style guide'y mogą być oficjalnie zamieszczone na witrynie języka programowania, a także tworzone przez przez poszczególne firmy i pojedynczych deweloperów (grupę developerów). Nie musisz stosować się do wszystkich zasad z danego style guide'a. Nie zawsze przyjmowanie bezkrytycznie wszystkich wytycznych jest dobre, ale dobry, popularny style guide jest rezultatem często wielu lat doświadczeń wielu ludzi, zatem jest duża szansa, że użycie go będzie pozytywne również w naszych projektach.
